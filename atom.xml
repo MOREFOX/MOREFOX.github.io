@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>喵~</title>
+  
+  <subtitle>今天画画了嘛？...(0/1)</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://morefox.net/"/>
+  <updated>2020-01-25T16:55:08.047Z</updated>
+  <id>https://morefox.net/</id>
+  
+  <author>
+    <name>MOREFOX</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【笔记】试试像素风画个头图</title>
+    <link href="https://morefox.net/2020/01/26/more-a-d4/"/>
+    <id>https://morefox.net/2020/01/26/more-a-d4/</id>
+    <published>2020-01-25T16:40:28.000Z</published>
+    <updated>2020-01-25T16:55:08.047Z</updated>
+    
+    <summary type="html">
+    
+      主题
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="图集" scheme="https://morefox.net/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【记录】博客Ver 6.1.35更新</title>
+    <link href="https://morefox.net/2020/01/25/note-a-ver6-1/"/>
+    <id>https://morefox.net/2020/01/25/note-a-ver6-1/</id>
+    <published>2020-01-24T21:25:15.000Z</published>
+    <updated>2020-01-24T21:56:36.009Z</updated>
+    
+    <summary type="html">
+    
+      博客更换主题
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="https://morefox.net/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【笔记】第一周作业过程记录</title>
+    <link href="https://morefox.net/2019/06/04/more-b-a7/"/>
+    <id>https://morefox.net/2019/06/04/more-b-a7/</id>
+    <published>2019-06-03T21:14:04.000Z</published>
+    <updated>2020-01-24T16:26:31.871Z</updated>
+    
+    <summary type="html">
+    
+      抱歉我只能做个凭感觉画画的菜逼
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="生活" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="画集" scheme="https://morefox.net/tags/%E7%94%BB%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【笔记】摸底测试作业</title>
+    <link href="https://morefox.net/2019/05/24/more-b-a6/"/>
+    <id>https://morefox.net/2019/05/24/more-b-a6/</id>
+    <published>2019-05-24T00:45:43.000Z</published>
+    <updated>2020-01-24T16:26:37.372Z</updated>
+    
+    <summary type="html">
+    
+      画摸底的作业，尽量表现的菜一些，所以炮我就压根没细化
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="图集" scheme="https://morefox.net/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【笔记】临摹人体练习</title>
+    <link href="https://morefox.net/2019/05/22/more-b-a5/"/>
+    <id>https://morefox.net/2019/05/22/more-b-a5/</id>
+    <published>2019-05-22T01:51:04.000Z</published>
+    <updated>2020-01-24T15:23:03.833Z</updated>
+    
+    <summary type="html">
+    
+      找一张临摹
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="图集" scheme="https://morefox.net/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【笔记】看到大佬的c4d制作过程我就很想试试</title>
+    <link href="https://morefox.net/2019/05/16/more-b-b2/"/>
+    <id>https://morefox.net/2019/05/16/more-b-b2/</id>
+    <published>2019-05-15T17:22:12.000Z</published>
+    <updated>2020-01-24T15:22:59.132Z</updated>
+    
+    <summary type="html">
+    
+      C4D初尝试
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="daily" scheme="https://morefox.net/tags/daily/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【记录】给徒儿的12面体画法教学</title>
+    <link href="https://morefox.net/2019/05/13/more-b-b1/"/>
+    <id>https://morefox.net/2019/05/13/more-b-b1/</id>
+    <published>2019-05-13T02:45:19.000Z</published>
+    <updated>2020-01-24T15:27:21.692Z</updated>
+    
+    <summary type="html">
+    
+      教学
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="daily" scheme="https://morefox.net/tags/daily/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【记录】还是一个大头你就别期待了</title>
+    <link href="https://morefox.net/2019/05/13/more-b-a4/"/>
+    <id>https://morefox.net/2019/05/13/more-b-a4/</id>
+    <published>2019-05-12T23:06:41.000Z</published>
+    <updated>2020-01-24T15:23:12.130Z</updated>
+    
+    <summary type="html">
+    
+      挑了张石膏像临摹
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="图集" scheme="https://morefox.net/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【笔记】尝试画写实大头</title>
+    <link href="https://morefox.net/2019/05/11/more-b-a3/"/>
+    <id>https://morefox.net/2019/05/11/more-b-a3/</id>
+    <published>2019-05-11T02:46:11.000Z</published>
+    <updated>2020-01-24T15:21:23.642Z</updated>
+    
+    <summary type="html">
+    
+      头像练习
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="图集" scheme="https://morefox.net/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【笔记】尝试摆脱赛璐璐的第一步</title>
+    <link href="https://morefox.net/2019/05/10/more-b-a2/"/>
+    <id>https://morefox.net/2019/05/10/more-b-a2/</id>
+    <published>2019-05-09T22:21:18.000Z</published>
+    <updated>2020-01-24T15:22:20.080Z</updated>
+    
+    <summary type="html">
+    
+      厚涂临摹练习！
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="图集" scheme="https://morefox.net/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【笔记】准备开始新的征程</title>
+    <link href="https://morefox.net/2019/05/09/more-b-a1/"/>
+    <id>https://morefox.net/2019/05/09/more-b-a1/</id>
+    <published>2019-05-09T12:48:46.000Z</published>
+    <updated>2020-01-24T15:20:41.916Z</updated>
+    
+    <summary type="html">
+    
+      全新的开始，尝试摆脱赛璐璐！
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="图集" scheme="https://morefox.net/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【记录】博客Ver.5.2.21更新</title>
+    <link href="https://morefox.net/2019/04/29/note-a-ver5-2-21/"/>
+    <id>https://morefox.net/2019/04/29/note-a-ver5-2-21/</id>
+    <published>2019-04-29T05:27:51.000Z</published>
+    <updated>2020-01-24T21:26:10.694Z</updated>
+    
+    <summary type="html">
+    
+      个人主站的修改细则
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="https://morefox.net/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【填坑】-学员-sai2绘画</title>
+    <link href="https://morefox.net/2019/03/14/note-a-6/"/>
+    <id>https://morefox.net/2019/03/14/note-a-6/</id>
+    <published>2019-03-14T08:44:51.000Z</published>
+    <updated>2020-01-24T15:22:41.837Z</updated>
+    
+    <summary type="html">
+    
+      &lt;center&gt;随手摸鱼是好习惯！(笑 &lt;/center&gt;
+    
+    </summary>
+    
+      <category term="Note" scheme="https://morefox.net/categories/Note/"/>
+    
+    
+      <category term="图集" scheme="https://morefox.net/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+      <category term="daily" scheme="https://morefox.net/tags/daily/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【记录】win10系统美化记录</title>
+    <link href="https://morefox.net/2018/08/19/more-a-p1/"/>
+    <id>https://morefox.net/2018/08/19/more-a-p1/</id>
+    <published>2018-08-18T16:00:00.000Z</published>
+    <updated>2020-01-24T15:28:21.264Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;Windows10的美化记录-软件，安利，以及资源&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;blockquote-center&quot;&gt;当然，仅适用于对视觉体验要求高，且电脑性能充裕的用户。&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="资源" scheme="https://morefox.net/categories/%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E8%B5%84%E6%BA%90/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="技术" scheme="https://morefox.net/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="windows" scheme="https://morefox.net/tags/windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【补坑】新坑补完计划-SHIJI&amp;KAWPRU</title>
+    <link href="https://morefox.net/2018/07/24/more-a-d3/"/>
+    <id>https://morefox.net/2018/07/24/more-a-d3/</id>
+    <published>2018-07-23T16:00:00.000Z</published>
+    <updated>2020-01-24T15:20:34.074Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://i2.tiimg.com/652069/efe7847d93840d77s.jpg&quot; alt=&quot;Markdown&quot;&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;blockquote-center&quot;&gt;这次不管如何，也要让你得到幸福&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Note" scheme="https://morefox.net/categories/Note/"/>
+    
+    
+      <category term="图集" scheme="https://morefox.net/tags/%E5%9B%BE%E9%9B%86/"/>
+    
+      <category term="坑" scheme="https://morefox.net/tags/%E5%9D%91/"/>
+    
+      <category term="music" scheme="https://morefox.net/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【日常】博客搭设笔记</title>
+    <link href="https://morefox.net/2018/07/07/note-a-5/"/>
+    <id>https://morefox.net/2018/07/07/note-a-5/</id>
+    <published>2018-07-07T10:44:51.000Z</published>
+    <updated>2020-01-24T15:29:06.112Z</updated>
+    
+    <summary type="html">
+    
+      &lt;center&gt;一个编程小白的网站搭建日记 &lt;/center&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Note" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/Note/"/>
+    
+    
+      <category term="web" scheme="https://morefox.net/tags/web/"/>
+    
+      <category term="技术" scheme="https://morefox.net/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【笔记】博客主题样式，主页文章背景，修改记录</title>
+    <link href="https://morefox.net/2018/07/07/note-a-4/"/>
+    <id>https://morefox.net/2018/07/07/note-a-4/</id>
+    <published>2018-07-06T17:39:32.000Z</published>
+    <updated>2020-01-24T15:28:57.383Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;NEXT主题修改笔记&quot;&gt;&lt;a href=&quot;#NEXT主题修改笔记&quot; class=&quot;headerlink&quot; title=&quot;NEXT主题修改笔记&quot;&gt;&lt;/a&gt;&lt;center&gt;NEXT主题修改笔记&lt;/center&gt;&lt;/h1&gt; &lt;center&gt; –闲来无事，改一改主题文件吧–&lt;/center&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Note" scheme="https://morefox.net/categories/%E6%8A%80%E6%9C%AF/Note/"/>
+    
+    
+      <category term="theme" scheme="https://morefox.net/tags/theme/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【记录】MOREFOX.net Ver 2.6.31</title>
+    <link href="https://morefox.net/2018/07/05/note-a-3/"/>
+    <id>https://morefox.net/2018/07/05/note-a-3/</id>
+    <published>2018-07-05T08:35:21.000Z</published>
+    <updated>2020-01-24T15:28:52.126Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;MOREFOX’s Blog  最新更新内容！！（雾&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Updata" scheme="https://morefox.net/categories/Updata/"/>
+    
+    
+      <category term="Updata" scheme="https://morefox.net/tags/Updata/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【摸鱼】-----偶遇-----</title>
+    <link href="https://morefox.net/2018/07/03/more-a-d2/"/>
+    <id>https://morefox.net/2018/07/03/more-a-d2/</id>
+    <published>2018-07-02T16:00:00.000Z</published>
+    <updated>2020-01-24T15:27:53.921Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;炎热的夏日洗刷着人们的身躯，好像仅仅是站立都可以让人融化掉一般。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="随想" scheme="https://morefox.net/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="story" scheme="https://morefox.net/tags/story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【补坑】新坑补完计划-窝-</title>
+    <link href="https://morefox.net/2018/05/19/more-a-d0/"/>
+    <id>https://morefox.net/2018/05/19/more-a-d0/</id>
+    <published>2018-05-18T16:00:00.000Z</published>
+    <updated>2020-01-24T15:20:19.256Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;画画久了，就变得嫌弃自己的水平，人之常情，努力补完。然后享受人生喜悦去吧（去睡觉）&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Article" scheme="https://morefox.net/categories/Article/"/>
+    
+    
+      <category term="坑" scheme="https://morefox.net/tags/%E5%9D%91/"/>
+    
+  </entry>
+  
+</feed>

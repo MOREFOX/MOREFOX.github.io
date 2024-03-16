@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>【笔记】试试像素风画个头图</title>
+    <link href="/2020/01/26/more-a-d4/"/>
+    <url>/2020/01/26/more-a-d4/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="尝试像素点画"><a href="#尝试像素点画" class="headerlink" title="尝试像素点画/"></a>尝试像素点画/</h1><p>如题，很喜欢像素风格的各种图，终于下定决心自己试试。</p><a id="more"></a><h2 id="1-新建个宽点的图纸"><a href="#1-新建个宽点的图纸" class="headerlink" title="1.新建个宽点的图纸"></a>1.新建个宽点的图纸</h2><p><img src="http://i2.tiimg.com/652069/b01c786bd648a0af.jpg" alt="Markdown"></p><p>这时候冥想</p><p>（我在瞎几把扯什么）</p><h2 id="2-试着把颜色铺一下"><a href="#2-试着把颜色铺一下" class="headerlink" title="2.试着把颜色铺一下"></a>2.试着把颜色铺一下</h2><p>其实就是脑子里突然出现傍晚的感觉然后随手就上一层红刷上去</p><p><img src="http://i2.tiimg.com/652069/036f84331b5ca04a.jpg" alt="Markdown"></p><h2 id="3-先把山的细节刷上去"><a href="#3-先把山的细节刷上去" class="headerlink" title="3.先把山的细节刷上去"></a>3.先把山的细节刷上去</h2><p><img src="http://i2.tiimg.com/652069/d29da7c89c1c24ef.jpg" alt="Markdown"></p><p>这用的是二值笔最细一点点磨得</p><p>发现笔刷大的话会出现太粗糙的感觉</p><p>笔刷比较细的情况下，即使我瞎jir涂都感觉到处都是细节</p><p>其实就是凭感觉瞎涂的。</p><h2 id="4-刷一层光上去"><a href="#4-刷一层光上去" class="headerlink" title="4.刷一层光上去"></a>4.刷一层光上去</h2><p><img src="http://i2.tiimg.com/652069/4988b536faee5572.jpg" alt="Markdown"></p><p>把夕阳的反光刷一点上去</p><p>这直接用选区笔把二值笔瞎涂的细节一键选区就可以</p><p>然后新建图层线性减淡</p><p>喷枪一笔下去就行</p><p>颜色直接取得背景色最艳得地方</p><p>就是这样</p><h2 id="5-刷一层阴影"><a href="#5-刷一层阴影" class="headerlink" title="5.刷一层阴影"></a>5.刷一层阴影</h2><p><img src="http://i2.tiimg.com/652069/5d868aa90108bb58.jpg" alt="Markdown"></p><p>如图，把背光部分随意刷一点阴影上去</p><p>让颜色有一点变化</p><p>不然左边和右边颜色太过平均就有点诡异</p><h2 id="6-添加大气导致的颜色减淡"><a href="#6-添加大气导致的颜色减淡" class="headerlink" title="6.添加大气导致的颜色减淡"></a>6.添加大气导致的颜色减淡</h2><p><img src="http://i2.tiimg.com/652069/eb18c57e887b0d56.jpg" alt="Markdown"></p><p>如图，高处颜色更明确</p><p>靠下部分从一个分界开始渐渐灰化</p><p>远处稍微减淡一些颜色</p><h2 id="7-完成"><a href="#7-完成" class="headerlink" title="7.完成"></a>7.完成</h2><p>这次完全是个试水瞎涂的日常摸鱼</p><p>除了这个我还试了一下画像素人物</p><p>但我画一半就放弃了</p><p>不像是画大的场景</p><p>人物比较小</p><p>每个像素点对于画面的权重过大</p><p>一个像素的去留都会导致整体的变化</p><p>感觉挺难受的</p><p>以上。</p><ul><li>BY：MOREFOX</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图集</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【记录】博客Ver 6.1.35更新</title>
+    <link href="/2020/01/25/note-a-ver6-1/"/>
+    <url>/2020/01/25/note-a-ver6-1/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>觉得之前的博客有点卡，各种方面来说主题都太花哨了，决定换个主题。</p><a id="more"></a><h1 id="博客更新日志"><a href="#博客更新日志" class="headerlink" title="博客更新日志"></a>博客更新日志</h1><h2 id="1-主题更换"><a href="#1-主题更换" class="headerlink" title="1.主题更换"></a>1.主题更换</h2><p> 之前的主题我个人感觉加载有点慢，还有一些别的原因，打算更换一个。</p><p>于是在hexo官网的主题那边找到一个蛮不错的主题。</p><p>下面这张是示例。</p><p><img src="http://i2.tiimg.com/652069/a5d35cbf06cc4720.png" alt="Markdown"></p><p>于是我就换上这个了，</p><p>嗯，调了很久参数，发现我不能在页内添加友链页面，添加之后就跳转到404了，有点心塞😥</p><p>但这个主题很好看，还很流畅，嘛，我倒是很喜欢。</p><p><img src="http://i2.tiimg.com/652069/a8cb0924df3f168b.png" alt="Markdown"></p><p>上面这张这个是<a href="https://fluid-dev.github.io/hexo-fluid-docs/" target="_blank" rel="noopener">介绍页</a>，用hexo的小伙伴可以套用这个试试（不是广告）。</p><p>于是，更换后的正式push。</p><h2 id="评论组件更换"><a href="#评论组件更换" class="headerlink" title="评论组件更换"></a>评论组件更换</h2><p>嗯，如题，终于可以把gitment换了，现在有个gitalk比前身更好用。</p><p>主要是因为听说gitment停更了没人维护来着。</p><p>然后想换，其实想换主题也有一部分评论插件的原因。</p><p><img src="http://i1.fuimg.com/652069/a016ba99acaffdb6.png" alt="Markdown"></p><p>这个是gitalk的演示。</p><h2 id="想换图床了但没找到合适的"><a href="#想换图床了但没找到合适的" class="headerlink" title="想换图床了但没找到合适的"></a>想换图床了但没找到合适的</h2><p>如题，图床限制繁多，想换。</p><p>或者说想自己搭，如果贵的话我就放弃。就是这样。</p><h1 id="以上"><a href="#以上" class="headerlink" title="以上"></a>以上</h1><p>博客更新，Vertion Alpha 6.1.35 .</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>技术</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【笔记】第一周作业过程记录</title>
+    <link href="/2019/06/04/more-b-a7/"/>
+    <url>/2019/06/04/more-b-a7/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="画第一周的作业"><a href="#画第一周的作业" class="headerlink" title="画第一周的作业"></a>画第一周的作业</h1><h2 id="过程记录"><a href="#过程记录" class="headerlink" title="过程记录/"></a>过程记录/</h2><p>这是第一周留的作业，瞎几把画的感觉真好/</p><a id="more"></a><h3 id="1-草稿"><a href="#1-草稿" class="headerlink" title="1. 草稿"></a>1. 草稿</h3><p>我不会圆柱画头，所以还是按我喜欢的来了。。</p><p>随便瞎jir画几笔找找感觉</p><p>本来想要那种JK仰天叛逆的感觉</p><p>然而画一半就变味了。</p><p>嘛算了。</p><p>头疼</p><p><img src="http://i1.fuimg.com/652069/c0511f83962ff939s.jpg" alt="Markdown"></p><h3 id="2-线稿"><a href="#2-线稿" class="headerlink" title="2. 线稿"></a>2. 线稿</h3><p>照着瞎几把勾就行了，反正最后都会被色彩盖住。</p><p>本来想留着草稿叠下面的，</p><p>然而试了试效果并没有想象的好。</p><p>所以放弃了。</p><p>勾线就讲究一个“无脑”就行了</p><p>看到啥勾啥，稍微注意一下线条的韵律即可。</p><p>就像这样</p><p><img src="http://i1.fuimg.com/652069/02e27af3bbb0c23as.jpg" alt="Markdown"></p><h3 id="3-底色"><a href="#3-底色" class="headerlink" title="3. 底色"></a>3. 底色</h3><p>我觉得吧底色实则是找感觉</p><p>讲真我画了这么久底色也就只有这一个用处。</p><p>哦对，还有个用就是ctrl左键点图层选区。。</p><p>好像再没了。</p><p>认真听了头发上色的一些理论知识。</p><p>发现和我以前用的方法一模一样</p><p>虽然终于知道了个闭塞点的东西。。。</p><p>嘛。然并卵。</p><p>了解了一下正常的上色顺序</p><p>大概就是-底色-大关系-闭塞点-亮部和暗部的交融</p><p>之类的。</p><p>我又去看了一遍百战one用的上色方法。</p><p>似乎。。。</p><p>还是没啥卵用</p><p>就这样吧。至少知道了正常上色的步骤。。</p><p>别的没讲什么有用的东西。</p><p>难受</p><p><img src="http://i1.fuimg.com/652069/9dab5259227b2d19s.jpg" alt="Markdown"></p><h3 id="4-细化和微调"><a href="#4-细化和微调" class="headerlink" title="4.细化和微调"></a>4.细化和微调</h3><p>这一步用的是狮子进餐的视频里的那种方法。。。</p><p>周日的课的一些知识点是真的有用。。</p><p>很多都秒用到。。</p><p>虽然有点懵逼的是用笔的方式是真的难学。</p><p>这一步疯狂取色，疯狂磨，疯狂涂抹过度，疯狂加深减淡工具，疯狂得曲线。。。</p><p>这次没用一键滤镜那种东西了。</p><p>仔细研究了一下发现还是ps调色好玩。</p><p>大概就像这样</p><p><img src="http://i1.fuimg.com/652069/295bd10ae54face3s.png" alt="Markdown"></p><h2 id="以上"><a href="#以上" class="headerlink" title="以上"></a>以上</h2><p>第一周作业就搞得我有点懵逼，确切来说是，还是不知道写实头发应该表现哪些细节。。</p><p>周一的课讲头发，没有讲脸的内容有用，</p><p>可能是我画了4年头发抠细节比较熟悉了，</p><p>讲头发不讲调色打光之类的就很难受。</p><p>算了，</p><p>作业到最后还是凭感觉来。</p><p>相比于理论知识我更愿意看过程和解说。大概。</p><p>毕竟理都懂，怎么做不知道。</p><p>老师边画边说明可能学的能更快些。</p><p>但为啥画的时候说明那么的简略啊woc。。。（难受</p><p>今天的课下课了也没搞懂说的交融是怎么个搞。</p><p>算了</p><p>一个人的碎碎念到此结束。</p><p>adios</p><ul><li>BY：MOREFOX</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+      <category>生活</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>画集</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【笔记】摸底测试作业</title>
+    <link href="/2019/05/24/more-b-a6/"/>
+    <url>/2019/05/24/more-b-a6/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="摸底测试作业"><a href="#摸底测试作业" class="headerlink" title="摸底测试作业"></a>摸底测试作业</h1><h2 id="过程记录"><a href="#过程记录" class="headerlink" title="过程记录/"></a>过程记录/</h2><p>作业要求是女炮手，动态不能太大，基本站立姿势，人设。</p><p>于是</p><p>经过之前的练习。。大概熟悉了ps的绘画过程。</p><p>实则是很多奇特的用法我还没开发出来</p><a id="more"></a><h3 id="1-起草"><a href="#1-起草" class="headerlink" title="1.起草"></a>1.起草</h3><p>作业要求是女炮手，动态不能太大，基本站立姿势，人设。</p><p>于是</p><p>经过之前的练习。。大概熟悉了ps的绘画过程。</p><p>实则是很多奇特的用法我还没开发出来</p><p>作业这次实际上是我第一次用ps上色（以前都是SAI的）</p><p>嘛，草稿参考了几张人体的结构图，（我可能是迷上了肌肉</p><p>黑色草稿红色饰品分开画</p><p>就像这样</p><p><img src="http://i2.tiimg.com/652069/0319b7be9044541es.jpg" alt="Markdown"></p><h3 id="2-线稿"><a href="#2-线稿" class="headerlink" title="2.线稿"></a>2.线稿</h3><p>线稿就没有我当初SAI的时候那么细了，</p><p>毕竟知道后面上色一定会把线稿盖住</p><p>还不如不细化，</p><p>但我还是把每一个配件都分开层画的</p><p>防止后面画错找不到原来的线稿（实则是没发生什么错</p><p><img src="http://i2.tiimg.com/652069/27f2d3bb66ecfc6fs.jpg" alt="Markdown"></p><h3 id="3-底色"><a href="#3-底色" class="headerlink" title="3.底色"></a>3.底色</h3><p>随便填一下，参照照片上色法的色彩基础理论。</p><p>黑白底色尽量选择默认光源颜色浓度最容易辨认的那种</p><p>顺便把炮设计一下（瞎jir画的，我比较懒</p><p><img src="http://i2.tiimg.com/652069/04f5fec86c4d4a6ds.jpg" alt="Markdown"></p><p><img src="http://i2.tiimg.com/652069/41a1e0e340a325d9s.jpg" alt="Markdown"></p><h3 id="4-黑白关系找感觉"><a href="#4-黑白关系找感觉" class="headerlink" title="4.黑白关系找感觉"></a>4.黑白关系找感觉</h3><p>实则是我除了临摹还没有直接从黑白灰入手画过图</p><p>调子我害怕控制不住</p><p>所以先试着画一部分看看感觉</p><p>实则是这里完了之后到上完色才知道太灰了，</p><p>大概是因为背景比较灰的让我的感知有了一些偏差</p><p><img src="http://i2.tiimg.com/652069/27dc3c1eebb1ca0cs.jpg" alt="Markdown"></p><h3 id="5-黑白关系"><a href="#5-黑白关系" class="headerlink" title="5.黑白关系"></a>5.黑白关系</h3><p>于是，就顺着画，黑白关系找了一下</p><p>炮我实在是懒得画了。</p><p>瞎jir涂了两笔就开始上色了</p><p><img src="http://i2.tiimg.com/652069/768ccc438787fd0fs.jpg" alt="Markdown"></p><h3 id="6-填色"><a href="#6-填色" class="headerlink" title="6.填色"></a>6.填色</h3><p>按照固有色直接往上涂</p><p>涂完在管别的</p><p><img src="http://i2.tiimg.com/652069/b959efc08deb9b7ds.jpg" alt="Markdown"></p><h3 id="7-稍微调色"><a href="#7-稍微调色" class="headerlink" title="7.稍微调色"></a>7.稍微调色</h3><p>调一下色彩平衡和色相</p><p>ctrl+b调一下倾向</p><p>就像这样</p><p><img src="http://i2.tiimg.com/652069/8f852d6109c2d8c0s.jpg" alt="Markdown"></p><h3 id="8-滤镜"><a href="#8-滤镜" class="headerlink" title="8.滤镜"></a>8.滤镜</h3><p>加一些微不足道的细节</p><p>画一下影子（既然别人人设图都这么画那我也……</p><p>修一下边</p><p>然后随便找个修图软件来个一键懒人滤镜</p><p><img src="http://i2.tiimg.com/652069/81850bfdb5a8d468s.jpg" alt="Markdown"></p><h3 id="9-完成"><a href="#9-完成" class="headerlink" title="9.完成"></a>9.完成</h3><p><img src="http://i2.tiimg.com/652069/81850bfdb5a8d468.jpg" alt="Markdown"></p><h2 id="以上"><a href="#以上" class="headerlink" title="以上"></a>以上</h2><p>嘛，除了炮以外我都有认真画，真的（真诚脸</p><ul><li>BY：MOREFOX</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图集</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【笔记】临摹人体练习</title>
+    <link href="/2019/05/22/more-b-a5/"/>
+    <url>/2019/05/22/more-b-a5/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="临摹人体（黑白）"><a href="#临摹人体（黑白）" class="headerlink" title="临摹人体（黑白）"></a>临摹人体（黑白）</h1><h2 id="过程记录"><a href="#过程记录" class="headerlink" title="过程记录"></a>过程记录</h2><h3 id="1-起草"><a href="#1-起草" class="headerlink" title="1.起草"></a>1.起草</h3><p>大概就像这样，</p><p>照着原图看，</p><p>然后按感觉把草稿撸出来（疑车无据），</p><p>明暗交界线我也稍微轻轻画上去了。</p><p>就像这样</p><p><img src="http://i2.tiimg.com/652069/25d1597a1507b1b7s.png" alt="Markdown"></p><h3 id="2-底色"><a href="#2-底色" class="headerlink" title="2.底色"></a>2.底色</h3><p>大概的铺一下就好。</p><p>这里不需要很细</p><p>但后面尽可能不要磨掉的那种</p><p><img src="http://i2.tiimg.com/652069/40159f69a8042bdd.png" alt="Markdown"></p><h3 id="3-细化胸和”肚兜”"><a href="#3-细化胸和”肚兜”" class="headerlink" title="3.细化胸和”肚兜”"></a>3.细化胸和”肚兜”</h3><p>没啥说的，扣就行了（疑车无据）。</p><p><img src="http://i2.tiimg.com/652069/96d36ef1e3288295s.png" alt="Markdown"></p><h3 id="4-腿和一部分细节"><a href="#4-腿和一部分细节" class="headerlink" title="4.腿和一部分细节"></a>4.腿和一部分细节</h3><p><img src="http://i2.tiimg.com/652069/f3939babaad83debs.png" alt="Markdown"></p><h3 id="5-好了扣完了看下整体对比进行微调"><a href="#5-好了扣完了看下整体对比进行微调" class="headerlink" title="5.好了扣完了看下整体对比进行微调"></a>5.好了扣完了看下整体对比进行微调</h3><p>就像这样</p><p><img src="http://i2.tiimg.com/652069/583f276614f39dfbs.png" alt="Markdown"></p><h3 id="6-把头发也扣完。"><a href="#6-把头发也扣完。" class="headerlink" title="6.把头发也扣完。"></a>6.把头发也扣完。</h3><p><img src="http://i2.tiimg.com/652069/02660be346763883s.png" alt="Markdown"></p><h3 id="7-完成"><a href="#7-完成" class="headerlink" title="7.完成"></a>7.完成</h3><p><img src="http://i2.tiimg.com/652069/c75baa0be1683eaas.jpg" alt="Markdown"></p><h2 id="以上"><a href="#以上" class="headerlink" title="以上"></a>以上</h2><ul><li>BY：MOREFOX</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图集</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【笔记】看到大佬的c4d制作过程我就很想试试</title>
+    <link href="/2019/05/16/more-b-b2/"/>
+    <url>/2019/05/16/more-b-b2/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="没有过程"><a href="#没有过程" class="headerlink" title="没有过程"></a>没有过程</h1><p>因为全都是一点点摸索的，</p><p>过程都忘了截屏，</p><p>大部分都是新建和删除的过程。。emmmmm。。</p><p>所以就只有这几张结果的截屏了。</p><p><img src="http://i1.fuimg.com/652069/3130f0535237fe64s.jpg" alt="Markdown"></p><p><img src="http://i1.fuimg.com/652069/df990950b4af6f25s.jpg" alt="Markdown"></p><p><img src="http://i1.fuimg.com/652069/2b9f2c177aa4f609s.png" alt="Markdown"></p><p><img src="http://i1.fuimg.com/652069/08ba833fb5b82eebs.jpg" alt="Markdown"></p><h1 id="以上"><a href="#以上" class="headerlink" title="以上"></a>以上</h1><ul><li>BY：MOREFOX</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>daily</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【记录】给徒儿的12面体画法教学</title>
+    <link href="/2019/05/13/more-b-b1/"/>
+    <url>/2019/05/13/more-b-b1/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="正十二面体画法"><a href="#正十二面体画法" class="headerlink" title="正十二面体画法"></a>正十二面体画法</h1><p><img src="http://i1.fuimg.com/652069/66d40a7e39f881b7.jpg" alt="Markdown"></p><ul><li>BY：MOREFOX</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>daily</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【记录】还是一个大头你就别期待了</title>
+    <link href="/2019/05/13/more-b-a4/"/>
+    <url>/2019/05/13/more-b-a4/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="头像石膏练习"><a href="#头像石膏练习" class="headerlink" title="头像石膏练习"></a>头像石膏练习</h1><h2 id="过程记录"><a href="#过程记录" class="headerlink" title="过程记录"></a>过程记录</h2><h3 id="1-起草"><a href="#1-起草" class="headerlink" title="1. 起草"></a>1. 起草</h3><p>非常随意的一个起草，还是和之前哪个大头一样。</p><p>果然线条才是绘画的灵魂啊woc，</p><p>要是可以不用上色就好了</p><p><img src="http://i1.fuimg.com/652069/0bf0bcc9c3e12864s.png" alt="Markdown"></p><h3 id="2-灵魂铺色"><a href="#2-灵魂铺色" class="headerlink" title="2. 灵魂铺色"></a>2. 灵魂铺色</h3><p>大概就像这样，颜色深浅反正我是没最开始考虑，</p><p>直接按照立体关系把色铺一下。</p><p>对比对虽然有点高但后面开始画的时候可以调整。。</p><p>就像这样</p><p><img src="http://i1.fuimg.com/652069/be5d314930d19047s.png" alt="Markdown"></p><h3 id="3-细化脸部"><a href="#3-细化脸部" class="headerlink" title="3.细化脸部"></a>3.细化脸部</h3><p>细化什么的最简单的方法就是磨。</p><p>磨啊磨啊磨啊磨啊</p><p>就好了</p><p>大概就像这样</p><p><img src="http://i1.fuimg.com/652069/d2295aceef206238s.png" alt="Markdown"></p><h3 id="4-细化脖子。"><a href="#4-细化脖子。" class="headerlink" title="4.细化脖子。"></a>4.细化脖子。</h3><p>同上</p><p><img src="http://i1.fuimg.com/652069/e412a60dfa8a62c4s.png" alt="Markdown"></p><h3 id="5-细化头发。"><a href="#5-细化头发。" class="headerlink" title="5. 细化头发。"></a>5. 细化头发。</h3><p>这里就需要注意这个是石膏的感觉头发边缘没那么硬朗。</p><p>各种涂抹工具一起并用</p><p>就像这样</p><p><img src="http://i1.fuimg.com/652069/cbe69d50762fc9b3s.png" alt="Markdown"></p><h3 id="6-收工"><a href="#6-收工" class="headerlink" title="6. 收工"></a>6. 收工</h3><p><img src="http://i1.fuimg.com/652069/9958b8c08692f24as.png" alt="Markdown"></p><h2 id="以上"><a href="#以上" class="headerlink" title="以上"></a>以上</h2><p>嘛，这张手感比上一张好一些，大概是画了一次熟悉了流程吧</p><p>但实际上这张还是用掉了我一晚上时间。</p><p>通宵肝图四天了。。</p><p>我感觉这么下去我就肝不动了。</p><p>嘛。</p><p>adios</p><ul><li>BY：MOREFOX</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图集</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【笔记】尝试画写实大头</title>
+    <link href="/2019/05/11/more-b-a3/"/>
+    <url>/2019/05/11/more-b-a3/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="零基础头像"><a href="#零基础头像" class="headerlink" title="零基础头像"></a>零基础头像</h1><h2 id="过程记录"><a href="#过程记录" class="headerlink" title="过程记录"></a>过程记录</h2><h3 id="1-先来个脑袋块面。"><a href="#1-先来个脑袋块面。" class="headerlink" title="1.先来个脑袋块面。"></a>1.先来个脑袋块面。</h3><p>这个倒是不是从草稿开始画的，</p><p>我直接从剪影开始的。毕竟这尼玛块太多了。</p><p>从草稿走八成跑偏。所以嘛。</p><p>这张是推荐优先画的东西。</p><p>先找找感觉（完全没找到(╬▔皿▔)凸</p><p><img src="http://i1.fuimg.com/652069/5c7cdcd49fce2654s.png" alt="Markdown"></p><h3 id="2-随便选个大头开始临摹"><a href="#2-随便选个大头开始临摹" class="headerlink" title="2.随便选个大头开始临摹"></a>2.随便选个大头开始临摹</h3><p>画个脸的平面，然后画个后脑勺（笑），再然后三庭五眼。额，大概就像下面这样。</p><p><img src="http://i1.fuimg.com/652069/dc24c16c3d5ed258s.png" alt="Markdown"></p><h3 id="3-然后顺着这个结构开始稍微细化一下脸。"><a href="#3-然后顺着这个结构开始稍微细化一下脸。" class="headerlink" title="3.然后顺着这个结构开始稍微细化一下脸。"></a>3.然后顺着这个结构开始稍微细化一下脸。</h3><p>诶呦woc教程说要画直线woc</p><p>emmmmm…………</p><p>我画平涂的时候从没找过结构。。起笔就是眼睛啊woc。。</p><p>嘛，反正我高兴就好。。</p><p><img src="http://i1.fuimg.com/652069/7360efba73d66718s.png" alt="Markdown"></p><h3 id="4-继续细化一下脑袋"><a href="#4-继续细化一下脑袋" class="headerlink" title="4. 继续细化一下脑袋"></a>4. 继续细化一下脑袋</h3><p>emmm和上面一样，只是无奈新建了个层，毕竟教程一个草稿花了四层。。。</p><p>这里顺便把阴影的边界之类的做了一些标记。</p><p><img src="http://i1.fuimg.com/652069/821f51230a541579s.png" alt="Markdown"></p><h3 id="5-开始填色！！！！"><a href="#5-开始填色！！！！" class="headerlink" title="5. 开始填色！！！！"></a>5. 开始填色！！！！</h3><p>大概就是这样，背景色直接油漆桶和原图一样。</p><p>然后把脸先稍微找找关系。</p><p>别的先撇一边。</p><p><img src="http://i1.fuimg.com/652069/76dd80e6627a9fefs.png" alt="Markdown"></p><h3 id="6-继续"><a href="#6-继续" class="headerlink" title="6. 继续"></a>6. 继续</h3><p>原图头发有点骚气，</p><p>感觉像是分了很多个图层一层画一点的样子。</p><p>但讲真ps的图层和sai差太多</p><p>而且我实在找不到和原图差不多的笔刷，所以嘛</p><p>最后还是用所谓的神笔直接上了。</p><p>但讲真ps的图层和sai差太多</p><p>找图层很恶心，而且开关图层会有延迟，</p><p>画的越多越卡</p><p>为了方便找图层，最后我全画一个层上了。（扶额</p><p><img src="http://i1.fuimg.com/652069/64e173b658d3d8d5s.png" alt="Markdown"></p><h3 id="7-衣服"><a href="#7-衣服" class="headerlink" title="7.衣服"></a>7.衣服</h3><p>原图的衣服上又是红的又是蓝的一堆。。。</p><p>这尼玛我不知道怎么做出来的效果woc。</p><p>原图绝对不是用笔刷一笔笔画的。</p><p>想都不用想绝对是ps的某种黑科技搞出来的效果。。</p><p>嘛，我还是乖乖黑白吧。。</p><p><img src="http://i1.fuimg.com/652069/e404e3d22cd329b3s.png" alt="Markdown"></p><h2 id="以上"><a href="#以上" class="headerlink" title="以上"></a>以上</h2><p>讲真，水平比较烂。</p><p>也就只能画到这种样子了。。。</p><p>哎。</p><ul><li>BY：MOREFOX</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图集</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【笔记】尝试摆脱赛璐璐的第一步</title>
+    <link href="/2019/05/10/more-b-a2/"/>
+    <url>/2019/05/10/more-b-a2/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="零基础厚涂"><a href="#零基础厚涂" class="headerlink" title="零基础厚涂"></a>零基础厚涂</h1><h2 id="记录过程"><a href="#记录过程" class="headerlink" title="记录过程"></a>记录过程</h2><a id="more"></a><p>就是这样，课前作业有个零基础的临摹练习作业。以下记录过程。</p><h3 id="1-草稿，找个形。"><a href="#1-草稿，找个形。" class="headerlink" title="1.草稿，找个形。"></a>1.草稿，找个形。</h3><p><img src="http://i2.tiimg.com/652069/d7d4a5858adee034s.png" alt="Markdown"></p><p>讲真，这是我第一次用ps画线稿。</p><p>刚起步就已经开始怀念SAI的美好了，ps笔刷延迟为啥就这么高！！！！！！！F-CK！！！</p><p>没啥说的，就是照着画，跟着感觉走就没错。</p><h3 id="2-涂"><a href="#2-涂" class="headerlink" title="2. 涂"></a>2. 涂</h3><p><img src="http://i2.tiimg.com/652069/2f88d4c3b361b1bes.png" alt="Markdown"></p><p>额，这个就很难受了，</p><p>教程说的是要注意排线方向不能乱涂，行吧，照做。</p><p>教程还说要注意调子（woc我以前都不知道调子是个什么玩意）</p><p>好的那就涂吧，</p><p>PS这笔刷想要铺色，笔都不能抬起来的woc，</p><p>抬起来一次，再在有颜色的地方画，颜色就黑下去了，</p><p>这有一种我刚入坑的时候用马克笔画画的感觉，</p><p>可以说是史上没有比这个难受的了。</p><p>但好处也是有的，可以磨啊磨啊磨啊磨，然后就感觉差不多了，大概就是这样。。。</p><h3 id="3-画香蕉"><a href="#3-画香蕉" class="headerlink" title="3. 画香蕉"></a>3. 画香蕉</h3><p><img src="http://i2.tiimg.com/652069/5da382b36c1f289as.png" alt="Markdown"></p><p>誒抖</p><p>细化一下布，然后把香蕉和梨画出来。</p><p>调子和布还有水果盘区分开。</p><p>然后就没有然后了。</p><h3 id="4-背景和剩下的布"><a href="#4-背景和剩下的布" class="headerlink" title="4. 背景和剩下的布"></a>4. 背景和剩下的布</h3><p><img src="http://i2.tiimg.com/652069/be060a7ad61454aas.png" alt="Markdown"></p><p>嘛和前面一样。</p><p>画完背景之后才发现调子有一点糊在一起了。</p><p>为了把调子区分开。</p><p>神奇的万用工具！！！</p><p>减淡工具中间调模式！！！！</p><p>哇这尼玛终于遇到个SAI里没有的东西了。</p><p>的确好用，嗤嗤。。</p><h3 id="5-还有一杯“牛奶”"><a href="#5-还有一杯“牛奶”" class="headerlink" title="5. 还有一杯“牛奶”"></a>5. 还有一杯“牛奶”</h3><p><img src="http://i2.tiimg.com/652069/32ef13ba998f14e6s.png" alt="Markdown"></p><h3 id="6-调色一下，签个名"><a href="#6-调色一下，签个名" class="headerlink" title="6. 调色一下，签个名"></a>6. 调色一下，签个名</h3><p><img src="http://i2.tiimg.com/652069/e9d326a9c44de570.jpg" alt="Markdown"></p><h2 id="以上"><a href="#以上" class="headerlink" title="以上"></a>以上</h2><p>下面是和原图的对比。</p><p><img src="http://i2.tiimg.com/652069/5edff18cfca8c8f0.png" alt="Markdown"></p><p>额。讲真这个有点难。</p><p>毕竟没试过这种画法。</p><p>光看教程还是挺难的。</p><p>为啥老师就长了双好手啊！！！</p><p>自卑中</p><p>-BY：MOREFOX</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图集</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【笔记】准备开始新的征程</title>
+    <link href="/2019/05/09/more-b-a1/"/>
+    <url>/2019/05/09/more-b-a1/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>别问我为啥，就是水平太烂。</p><p>学去了。（恶</p><a id="more"></a><h2 id="入门"><a href="#入门" class="headerlink" title="入门"></a>入门</h2><p>由于对厚涂和传统绘画完全不了解，</p><p>所以课前练习还是从最基础的来吧。。</p><h2 id="素描基础石膏临摹"><a href="#素描基础石膏临摹" class="headerlink" title="素描基础石膏临摹"></a>素描基础石膏临摹</h2><h3 id="零基础的练习临摹"><a href="#零基础的练习临摹" class="headerlink" title="零基础的练习临摹"></a>零基础的练习临摹</h3><p>嘛，刚拿到练习图说是要临摹，我以为是要真·临摹。用的铅笔笔刷一笔一笔的。画的。。（然而实际上没说要笔触都一样woc我还累死累活画了个难受，19号笔刷是个啥玩意，为啥我导入画笔之后没有这个？！！！！</p><p><img src="http://i2.tiimg.com/652069/cfb4384acaff4b18s.png" alt="Markdown"></p><p>第一张就是找找感觉（完全没按正常套路来画啊woc</p><p><img src="http://i2.tiimg.com/652069/477daf6bef66a05a.png" alt="Markdown"></p><p>第二张页视找找感觉（背景糊成一坨了</p><p><img src="http://i2.tiimg.com/652069/8b07556a182db435.png" alt="Markdown"></p><p>第三张额，找找画背景的感觉，（这张倒是没咋糊，但tm一开始方向就是错的啊woc</p><h3 id="零基础写生"><a href="#零基础写生" class="headerlink" title="零基础写生"></a>零基础写生</h3><p><img src="http://i2.tiimg.com/652069/f8b7594223ffa60es.png" alt="Markdown"></p><p>这张。。算了不说啥了。跟没画一样。</p><h3 id="临摹"><a href="#临摹" class="headerlink" title="临摹"></a>临摹</h3><p>照着视频看了十几次，用视频同样的方法找感觉，（完全没找到</p><p><img src="http://i2.tiimg.com/652069/8212c368b1ba1b39t.jpg" alt="Markdown"></p><p>上面是原图的一部分</p><p><img src="http://i2.tiimg.com/652069/473dc584e1b7e7e6s.png" alt="Markdown"></p><p>找感觉画的。</p><h2 id="以上"><a href="#以上" class="headerlink" title="以上"></a>以上</h2><p>哎，也不知道开课又是什么德行。</p><p>也幸亏开课前我画的东西不算机密</p><p>写个博客记录一下水平，讲真画赛璐璐久了这种方式画图非常不习惯，</p><p>曾经的底色都是油漆桶直接填充的，</p><p>现在需要一笔不抬笔🖊，铺调子。。。</p><p>哇讲真ps旋转画布好麻烦啊，毕竟用SAI画了5年了。</p><p>顺便吐槽一下ps，下笔延迟高到受不了，虽然比csp和painter好很多，但还是受不了啊，哪有SAI那么舒爽。</p><p>还有ps缓存在内存里的预览都不是实时刷新的啊woc,导致经常缩放画笔和画布出现残影啊woc，</p><p>最主要是ps他tm卡啊！我2w3的电脑都卡啊，都不知道那种几千块的电脑怎么带的动啊woc。</p><p>最最最主要是tmd居然有人可以忍受的了啊！你怕不是没用过sai那种舒爽流畅的感觉啊！！！！</p><p>好了。。。</p><p>一个人的碎碎念到此结束。</p><p>adios</p><ul><li>BY：MOREFOX</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图集</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【记录】博客Ver.5.2.21更新</title>
+    <link href="/2019/04/29/note-a-ver5-2-21/"/>
+    <url>/2019/04/29/note-a-ver5-2-21/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="1-重新修改过往博客内容漏洞"><a href="#1-重新修改过往博客内容漏洞" class="headerlink" title="1.重新修改过往博客内容漏洞"></a>1.重新修改过往博客内容漏洞</h2><p>a.内嵌式音乐播放器由于不可调节音量比较吵所以全部去掉了。</p><p>b.图片进行部分再压缩，加快网页加载速度。</p><p>c.图库续费</p><p>d.修改归档和标签词条合理性</p><h2 id="2-更换主题"><a href="#2-更换主题" class="headerlink" title="2.更换主题"></a>2.更换主题</h2><p><a href="https://github.com/honjun/hexo-theme-sakura" target="_blank" rel="noopener">Sakura</a> 主题安装和部署</p><h2 id="3-主题内修改"><a href="#3-主题内修改" class="headerlink" title="3.主题内修改"></a>3.主题内修改</h2><p>a.网页左下播放器歌词显示只能开启无法关闭，</p><p>  原本代码<br>  <img src="http://i1.fuimg.com/652069/e279a2e93c819721s.png" alt="Markdown"></p><p>  以至于‘lrc-show’和‘lrc-hide’同时包含进class里，导致不管开还是关字幕，字幕都是显示的<br>  <img src="http://i1.fuimg.com/652069/a7e25cf3725fa880s.png" alt="Markdown"><br>  <img src="http://i1.fuimg.com/652069/2eb884fdcb2de8acs.png" alt="Markdown"></p><p>  于是修改代码将原本 aplayer播放为前提改为以是否存在隐藏字幕的行包含在class里。<br>  <img src="http://i1.fuimg.com/652069/7d1d0ef07e94401fs.png" alt="Markdown"></p><p>  以上，开关字幕可以通过点击按钮实现了。（别问我上面为啥是图片，我懒得去拷贝代码了）</p><p>b.除了头图还有链接还有图片等readme文件就有的可更改选项外，还特意修改了：图标指向地址，404页面改为柴火燃烧，’START:DASH!!’改为’LINK：START!!’，歌词背景颜色改为透明，将原本指向的图标和图片存入自己的图库并逐个填写url，等……</p><p>c.解决了bilibili视频外链显示bug的奇特问题（仔细想想应该是我自己造成的）</p><h2 id="4-百度收录再次坑了我一把，于是我投入了谷歌的怀抱。"><a href="#4-百度收录再次坑了我一把，于是我投入了谷歌的怀抱。" class="headerlink" title="4.百度收录再次坑了我一把，于是我投入了谷歌的怀抱。"></a>4.百度收录再次坑了我一把，于是我投入了谷歌的怀抱。</h2><h1 id="以上！"><a href="#以上！" class="headerlink" title="以上！"></a>以上！</h1><p>  博客正式更新，Vertion 5.2.21 Alpha-1.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>技术</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【填坑】-学员-sai2绘画</title>
+    <link href="/2019/03/14/note-a-6/"/>
+    <url>/2019/03/14/note-a-6/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center>随手摸鱼是好习惯！(笑 </center><a id="more"></a><h1 id="摸鱼-练习"><a href="#摸鱼-练习" class="headerlink" title="摸鱼+练习"></a>摸鱼+练习</h1><h2 id="1-草稿随手画那么几笔，感觉差不多就行了。"><a href="#1-草稿随手画那么几笔，感觉差不多就行了。" class="headerlink" title="1.草稿随手画那么几笔，感觉差不多就行了。"></a>1.草稿随手画那么几笔，感觉差不多就行了。</h2><p><img src="http://i1.fuimg.com/652069/43df6375c886dd3a.jpg" alt="Markdown"></p><p>当然也就只有草稿感觉还行了，勾线火葬场，上色火葬场啊woc</p><h2 id="2-勾线，注意线条感觉，画出一小部分笔触，剩下线稿为上色做基础。"><a href="#2-勾线，注意线条感觉，画出一小部分笔触，剩下线稿为上色做基础。" class="headerlink" title="2.勾线，注意线条感觉，画出一小部分笔触，剩下线稿为上色做基础。"></a>2.勾线，注意线条感觉，画出一小部分笔触，剩下线稿为上色做基础。</h2><p><img src="http://i1.fuimg.com/652069/806a76b0dd15b5b5.jpg" alt="Markdown"></p><p>勾线emmmm看起来还行。</p><h2 id="3-上色主要以底色为主，明暗关系我没咋找，随便几笔涂的。。"><a href="#3-上色主要以底色为主，明暗关系我没咋找，随便几笔涂的。。" class="headerlink" title="3.上色主要以底色为主，明暗关系我没咋找，随便几笔涂的。。"></a>3.上色主要以底色为主，明暗关系我没咋找，随便几笔涂的。。</h2><p><img src="http://i1.fuimg.com/652069/b6bc476d2c8acc60.jpg" alt="Markdown"></p><p>固有色什么的都是瞎jir选的哈哈哈</p><h2 id="4-做点虚化"><a href="#4-做点虚化" class="headerlink" title="4.做点虚化"></a>4.做点虚化</h2><p><img src="http://i1.fuimg.com/652069/aea1912ce3393fea.jpg" alt="Markdown"></p><p>好了就这样。不要再虚了！背景人物都看不出来啦！！！</p><h2 id="5-视频地址"><a href="#5-视频地址" class="headerlink" title="5.视频地址"></a>5.视频地址</h2><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=46043109&page=" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div><h2 id="6-结语"><a href="#6-结语" class="headerlink" title="6.结语"></a>6.结语</h2><p>嘛，这回这个是真的摸鱼级别的了，没怎么认真去画，主要是为了涂个爽，最近压力挺大的。</p><p>当然也是为了找点感觉，很久没画一张成品了，总是摸鱼草稿然后勾线爽一把就弃坑。。</p><p>这种感觉很难受，就感觉一到色彩就很纠结。</p><p>我报了一个班学，不能继续一个人摸索了，继续这样生存将成为我面临的主要困难，我还是很向往比较休闲的生活的，所以说咯。</p><p><strong>以上</strong></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Note</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图集</tag>
+      
+      <tag>daily</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【记录】win10系统美化记录</title>
+    <link href="/2018/08/19/more-a-p1/"/>
+    <url>/2018/08/19/more-a-p1/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote class="blockquote-center">Windows10的美化记录-软件，安利，以及资源</blockquote><blockquote class="blockquote-center">当然，仅适用于对视觉体验要求高，且电脑性能充裕的用户。</blockquote><a id="more"></a><p><img src="http://i4.fuimg.com/652069/ad88250dbd202011t.jpg" alt="Markdown"><br><img src="http://i2.tiimg.com/652069/23b0a509075c166c.gif" alt="Markdown"></p><h1 id="A—steam上的美化软件"><a href="#A—steam上的美化软件" class="headerlink" title="A—steam上的美化软件"></a>A—steam上的美化软件</h1><h2 id="1-wallpaperengine"><a href="#1-wallpaperengine" class="headerlink" title="1-wallpaperengine"></a>1-wallpaperengine</h2><p>作为新兴动态桌面软件无疑WE做的是很好的，推荐购买正版（省去自己整理壁纸文件的繁琐步骤）</p><p>回想曾经用着低性能PC的时候，那时候最好用的动态壁纸软件是dreamscene7只能使用wmv视频作为壁纸使用，那个时候从没想过有一天可以用web文件和软件当做壁纸，但同时，你也需要为了壁纸而去研究繁琐的canvas代码。</p><p>wallpaperengine解决了大部分的麻烦，但鉴于steam创意工坊作品较少，品种单一，软件壁纸更是出奇得bug多，更推荐寻找制作精良的网页背景提取制作壁纸。</p><p><img src="http://i1.fuimg.com/652069/f7f44d7b30feb982s.jpg" alt="Markdown"></p><ul><li>最初的wallpaperengine是不支持多显示器的，那时候我安装后用了不到两小时直接就退款重新用dreamscene7去了，后来鬼使神差再次入坑发现这个问题已经修复了，而且增加了多显示器支持选项，感觉上人性化了很多。</li><li>壁纸内存占用消耗较高，显卡的性能占用很少，属于可接受范围内。</li><li>当然现在的steam创意工坊壁纸内容比较二次元（惹不起惹不起），比较炫酷的壁纸多数都被用烂了，软件壁纸操作繁琐，bug多，不支持宽屏分辨率等问题也各有存在。相信以后会修复这些问题。</li></ul><h2 id="2-SAOutils"><a href="#2-SAOutils" class="headerlink" title="2-SAOutils"></a>2-SAOutils</h2><p>这款软件是SAO动画衍生作品，作为一个启动器，完全可以代替掉windows菜单存在，但相比于那些懒癌发作根本不想自己制作菜单的人，可能不能忍受软件不能自动添加到启动菜单的繁琐。</p><p>同样推荐去steam购买正版，正式版比网页上下的免费版体验更舒爽了，最主要是音源启动声音和选择声音都没有了违和感（记得老版本音源好像播放一半就卡没了的感觉，真的很难受，自己做的还不好听，哎），3D模式的卡顿也没了，总体来说正式版比免费的要好很多。</p><p>同样，作为一个系统任何ui都喜欢DIY的视觉空控，美化和自定义变成了系统里必不可少的东西。</p><p><img src="http://i1.fuimg.com/652069/5d887af21f7505acs.jpg" alt="Markdown"></p><ul><li>SAOutils的界面是可以自定义修改的，但我挺喜欢官方自带的GGO主题，同时也懒得自己做，所以没改。</li><li>列表选项可以设定问自定义的菜单，可以设置为真实目录（显示目录内文件），也可以指向文件·exe·命令行·网页等等，左边一栏可添加介绍信息和图片之类的。</li><li>它可以让系统变得更高科技一些而且很实用，很推荐（嘛，办公党八成用了也嫌麻烦，也就是我自己沉迷咯）</li></ul><h2 id="3-桌宠类-无"><a href="#3-桌宠类-无" class="headerlink" title="3-桌宠类(无)"></a>3-桌宠类(无)</h2><p>由于没有实际使用价值这里不做推荐</p><h1 id="B—主题修改"><a href="#B—主题修改" class="headerlink" title="B—主题修改"></a>B—主题修改</h1><p>win10从发布之初就有很多主题修改类软件，但时隔许久终于在1.6版本后才有了完善的主题修改流程和更好看的主题。</p><p>实际从破解开始应该是很久以前了，但1.6版本后才终于可以在玩不崩系统的前提下自定义系统主题和一些列表显示方式。</p><p><img src="http://i1.fuimg.com/652069/32fb538a97ce41e4s.jpg" alt="Markdown"></p><p><img src="http://i4.fuimg.com/652069/131101c8acfbb34bs.jpg" alt="Markdown"></p><ul><li>现在可以做到很多类似win7的主题修改的操作，而且也很简单方便（虽然还是有一定的玩崩系统的风险）</li><li>当时找到win10的主题修改教程的时候是在rainmeter的论坛上，但看上去似乎是别的网站来打广告的样子，不过挺实用的就伸手下载来用了。</li><li>我把主题破解文件上传到我自己的服务器了，链接在这：<a href="https://coding.net/s/472fc89c-a428-4763-9482-07654f2a980b" target="_blank" rel="noopener">https://coding.net/s/472fc89c-a428-4763-9482-07654f2a980b</a></li><li>除了主题破解还有一个Explorer修改器同样上传至我自己的服务器了，链接在这：<a href="https://coding.net/s/f41f931f-d4f7-4b2b-b00a-7036d725e6f2" target="_blank" rel="noopener">https://coding.net/s/f41f931f-d4f7-4b2b-b00a-7036d725e6f2</a> </li><li>主题文件更推荐自己去找，因为我大部分都不知道我用的主题是谁制作的，发出来就属于不表明作者的二次传播了，还是不发的好。</li><li>上面图片的主题，我是有它的链接的，但应该也是二次转载来的。。链接：<a href="http://zhutix.com/pc/matte-vsb/" target="_blank" rel="noopener">http://zhutix.com/pc/matte-vsb/</a></li></ul><p><strong>主题修改方法</strong></p><ul><li>首先需要解压压缩包UltraUXThemePatcher文件</li><li>按步骤下一步安装，需要注意的是唯独不兼容Win10 1511 版本系统。</li><li>查看系统版本方法：Win+R打开运行框，在弹出的运行框里面输入 winver  并确定 ，在弹出窗口内可看到版本，如果是1511版本请下载1511版本破解专版，网盘：<a href="https://pan.baidu.com/s/1sjZa9x7。" target="_blank" rel="noopener">https://pan.baidu.com/s/1sjZa9x7。</a></li><li>点击到install安装后，status三个项显示的是 patched 为成功，如果有任意一项显示 NOT patched 则是不成功 ，no need to patch不用管，意思不需要破解（不成功的话也没办法咯，就是你改不了了，静待以后可能会有新的破解方案）</li><li><img src="http://i1.fuimg.com/652069/0cb007ccd424aa34s.jpg" alt="Markdown"></li><li>破解主题后，解压OldNewExplorerCfg文件，并运行OldNewExplorerCfg.exe</li><li><img src="http://i1.fuimg.com/652069/9a6f1504fb0f8220s.jpg" alt="Markdown"></li><li>按需要打勾，有的主题为了兼容样式需要特定勾选，其余按喜好勾选。</li><li>然后将主题文件放入系统内C:\Windows\Resources\Themes文件夹内，然后从个性化设置里选择你刚放入themes的主题即可。（主题文件自己找着下载去，百度会用不？谷歌会用不？）</li><li>（当然，也可以使用“漫锋网”的自动主题安装器，虽然实测下来并没有出现问题，比较懒的可以用一用，虽然我很讨厌这个就是了，如果你的系统盘符并不是C的话，会出一点问题，而且我不是很喜欢把文件，交给看上去就很beta的软件去装，然而这个软件只是粘了个主题进themes里而已，所以不推荐。）</li><li>以上</li></ul><p><strong><em>强调</em></strong></p><p>主题破解有玩崩系统的风险！！！（操作无误应该没事，别自己改系统内dll文件就好，不要下载网上的dll文件替换超容易崩）</p><p>请确保系统盘的重要文件有备份，并同时拥有恢复系统的手段（如U盘pe系统或光碟再或者另一台电脑）</p><h1 id="C—开始菜单"><a href="#C—开始菜单" class="headerlink" title="C—开始菜单"></a>C—开始菜单</h1><h2 id="startlsback"><a href="#startlsback" class="headerlink" title="startlsback"></a>startlsback</h2><ul><li>简称SB菜单，知道的人应该很多了现在，当年新发布的时候start10是ta的有力竞争对手，但后来更新win10之后安装了start10的用户会导致explorer无法启动而自爆，于是，这个startlsback软件便成了如今最好的开始菜单美化软件了。</li><li>软件本体我有上传到我的服务器，不需要你们翻墙去下载咯。</li><li>这里是下载链接：<a href="https://coding.net/s/f2ea95ff-613a-4d83-b221-8cca538215ea" target="_blank" rel="noopener">startlsback</a></li><li><img src="http://i1.fuimg.com/652069/5e6afc118c859fcds.jpg" alt="Markdown"></li><li>外观正常情况只有四个自带的，如果你的win10主题自带startls的主题那么会在第二个出现新的皮肤。</li><li>可以修改的参数很多，看需求用，不想用也可以把开始菜单切换成win10默认并把它当一个任务栏透明插件用。</li><li>百度就可以搜到这个软件，不是很贵所以希望购正支持。</li><li><img src="http://i1.fuimg.com/652069/dab6bd1f5f0a0207s.jpg" alt="Markdown"></li></ul><h1 id="D—blend窗口透明"><a href="#D—blend窗口透明" class="headerlink" title="D—blend窗口透明"></a>D—blend窗口透明</h1><ul><li>这个软件有点智障并不是很喜欢。</li><li>可以做到像win7那样的areo效果。</li><li>界面是这样</li><li><img src="http://i4.fuimg.com/652069/d638963a9380ca79s.jpg" alt="Markdown"></li><li>一般情况透明度调到250就可以了（个人感觉，实际效果看使用效果）</li><li>如果有不兼容的软件可以添加到不适用该效果的软件到黑名单</li><li>这里有使用教程：<a href="http://zhutix.com/tools/touming-blend/" target="_blank" rel="noopener">blend教程</a></li></ul><p><img src="http://i2.tiimg.com/652069/eb807f4d58d5e6das.jpg" alt="Markdown"></p><h1 id="E—Rainmeter雨滴桌面美化"><a href="#E—Rainmeter雨滴桌面美化" class="headerlink" title="E—Rainmeter雨滴桌面美化"></a>E—Rainmeter雨滴桌面美化</h1><ul><li>具体请参阅雨滴论坛</li><li><a href="https://bbs.rainmeter.cn/index.php" target="_blank" rel="noopener">雨滴论坛链接</a></li><li>软件下载链接：<a href="https://github.com/rainmeter/rainmeter/releases/download/v4.2.0.3111/Rainmeter-4.2.exe" target="_blank" rel="noopener">rainmeter官方下载</a></li><li>如上，本帖第一张GIF动图即雨滴设置的效果。该皮肤链接：<a href="https://bbs.rainmeter.cn/thread-189846-1-1.html" target="_blank" rel="noopener">Zenith1.0皮肤</a></li><li>我自己使用的雨滴皮肤整合包：<a href="https://coding.net/s/718ba9f4-a3ce-4266-87e0-205e4d44b02b" target="_blank" rel="noopener">skins压缩包</a></li><li>整合包使用方法：1.安装rainmeter——-     2.找到:我的文档\rainmeter\skins文件夹——      3.把整合压缩包内的skins文件家替换掉我的文档里的skins文件夹。</li><li>雨滴部分不做过多介绍，毕竟自己做皮肤有点难，但改别人的皮肤就很简单。想要使用的就自己去论坛下载支持一下作者和分享者吧。</li></ul><p><img src="http://i1.fuimg.com/652069/1f91979dee3016b3s.jpg" alt="Markdown"></p><p><img src="http://i1.fuimg.com/652069/72b7aa5ec8081967s.jpg" alt="Markdown"></p><h1 id="F—任务栏图标放到中间"><a href="#F—任务栏图标放到中间" class="headerlink" title="F—任务栏图标放到中间"></a>F—任务栏图标放到中间</h1><p>1.右键任务栏，依次选择  工具栏–新建工具栏–文档-右键新建文件夹（随便起个名）-选择文件夹</p><p>2.然后右键任务栏取消任务栏锁定</p><p>3.拖动任务栏最右添加的文件夹到左边，调整任务栏图标位置到中间即可。（这方法很多人都知道但还是发出来好了。）</p><h1 id="G—以上！！！祝愉快的桌面视觉体验！！！"><a href="#G—以上！！！祝愉快的桌面视觉体验！！！" class="headerlink" title="G—以上！！！祝愉快的桌面视觉体验！！！"></a>G—以上！！！祝愉快的桌面视觉体验！！！</h1>]]></content>
+    
+    
+    <categories>
+      
+      <category>资源</category>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>技术</tag>
+      
+      <tag>windows</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【补坑】新坑补完计划-SHIJI&amp;KAWPRU</title>
+    <link href="/2018/07/24/more-a-d3/"/>
+    <url>/2018/07/24/more-a-d3/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="http://i2.tiimg.com/652069/efe7847d93840d77s.jpg" alt="Markdown"></p><blockquote class="blockquote-center">这次不管如何，也要让你得到幸福</blockquote><a id="more"></a><h2 id="当然的惯例草稿"><a href="#当然的惯例草稿" class="headerlink" title="当然的惯例草稿"></a>当然的惯例草稿</h2><p><img src="http://i2.tiimg.com/652069/dc03a1ff8c0de724s.jpg" alt="Markdown"></p><h2 id="线稿"><a href="#线稿" class="headerlink" title="线稿"></a>线稿</h2><p><img src="http://i2.tiimg.com/652069/d8b4b207268feff9s.jpg" alt="Markdown"></p><h2 id="完成图（丑）"><a href="#完成图（丑）" class="headerlink" title="完成图（丑）"></a>完成图（丑）</h2><p><img src="http://i2.tiimg.com/652069/84acec33f29de2efs.jpg" alt="Markdown"></p><h2 id="去掉背景黑框也还行"><a href="#去掉背景黑框也还行" class="headerlink" title="去掉背景黑框也还行"></a>去掉背景黑框也还行</h2><a href="http://i2.tiimg.com/652069/efe7847d93840d77s.jpg" data-fancybox="images" data-caption="主人没有描述我哦~" target="_blank" rel="noopener"><img src="http://i2.tiimg.com/652069/efe7847d93840d77s.jpg"></a>]]></content>
+    
+    
+    <categories>
+      
+      <category>Note</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图集</tag>
+      
+      <tag>坑</tag>
+      
+      <tag>music</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【日常】博客搭设笔记</title>
+    <link href="/2018/07/07/note-a-5/"/>
+    <url>/2018/07/07/note-a-5/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center>一个编程小白的网站搭建日记 </center><a id="more"></a><h1 id="博客搭建"><a href="#博客搭建" class="headerlink" title="博客搭建"></a>博客搭建</h1><p>博客搭建于2018年5月低。</p><h2 id="搭建博客的初衷。"><a href="#搭建博客的初衷。" class="headerlink" title="搭建博客的初衷。"></a>搭建博客的初衷。</h2><p>搭建博客的初衷，只是自己想要搭建一个自己的信息发布站，记录自己的日常，工作，笔记和感想。  </p><h2 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h2><p>最初认为这应该是个十分简单的活，但实际接触才发觉这并没有想象那么简单，本以为博客的模板直接拷贝来就能使用实则是拷贝来的东西大部分是不能直接套用的，本以为只要有教程就可以直接拷贝来的代码实则是在不理解的情况下拷贝来的都不能用，本以为主题输出的文件可以直接丢到文件夹实则是不仅需要文件还需要正确的引用位置。  </p><p>实际在克隆了hexo模板之后，因为网上多数教程均为next主题的教程，所以最终选择了next主题。</p><p>主题引用之后的样式并没有想象那么好看，所以主题的修改也是必不可少的。</p><p>但实际操作之后发现，搭建的方法倒是很简单，搭建之后的自定义却是难上加难（对于自己来说）   </p><p>实际参考文章：  </p><p><a href="http://ryane.top/2018/01/10/2018%EF%BC%8C%E4%BD%A0%E8%AF%A5%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2%E4%BA%86%EF%BC%81/" target="_blank" rel="noopener">2018，你该搭建自己的博客了！</a>  </p><p><a href="https://thief.one/2017/03/03/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/" target="_blank" rel="noopener">Hexo搭建博客教程</a>  </p><p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a>  </p><p>以上文章仅仅是一部分，搭建过程中参考的文章太多了并没有记录具体参考了哪些。</p><h1 id="主题的修改"><a href="#主题的修改" class="headerlink" title="主题的修改"></a>主题的修改</h1><p>主题修改过程发现了很多很多的问题和bug，这些bug不是主题的bug，而是我自己修改所导致的，但修改之后自己并不能记住之前修改了哪些，所以寻找之前修改后导致的bug也变成了一项困难的任务。  </p><h2 id="主题的修改参考文章："><a href="#主题的修改参考文章：" class="headerlink" title="主题的修改参考文章："></a>主题的修改参考文章：</h2><p><a href="https://thief.one/2017/03/03/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/" target="_blank" rel="noopener">Hexo搭建博客教程</a>  </p><p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a>  </p><p><a href="http://www.aisun.org/2017/10/hexo-next+dingzhi/" target="_blank" rel="noopener">hexo框架基于next主题定制</a>  </p><p><a href="http://shenzekun.cn/hexo%E7%9A%84next%E4%B8%BB%E9%A2%98%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html" target="_blank" rel="noopener">hexo的next主题个性化配置教程</a></p><p>同时感谢在搭建博客给与我巨大帮助的朋友<a href="https://asdfv1929.github.io/" target="_blank" rel="noopener">asdfv1929</a></p><h2 id="感想-1"><a href="#感想-1" class="headerlink" title="感想"></a>感想</h2><p>主题的修改说实话，修改yml文件就像修改ini配置文件一样简单，但其余js文件和css文件的修改就变得有些困难了。由于自己并不懂代码，往往需要把整个文件上百行代码一个个修改测试出每个代码的功能和用途，但这样得出的结果也并不是完美的，因为有些代码的构成并不是单独运作的，可能是不同文件不同段落的代码共同达成同一个功能，这样的代码修改就变得难上加难，有时候为了寻找某一项功能的代码构成需要参考十几篇文章测试一整天。  </p><p>修改博客的很多问题并不能在百度上找到答案，往往需要查找的不是“next主题样式排版如何修改”，而是在next主题样式文件中复制某一个句标去搜索如何使用，就算这样也可能搜不到具体教程。  </p><p>当然，在与<a href="https://asdfv1929.github.io/" target="_blank" rel="noopener">asdfv1929</a>讨论时同样遇到动态背景和主页文章同层不能正常显示的问题，  </p><p>最终解决方法却十分的简单，在custom文件里新增一个背景的框架范围，并在layout文件中套用这个范围即可，为了实现这个我对比了不下百篇博客的HTML代码的区别，同时百度了不下五十篇文章和教程才实现，相必这种问题在专业的人面前应该都不是问题才对。但奈何百度就是没有这类的教程。  </p><p>其余的类似于文章圆角和代码框圆角，都是我把文件内每一行代码每一个赋值一个个修改并对照得出的。耗时不可谓不多。  </p><h1 id="写博客"><a href="#写博客" class="headerlink" title="写博客"></a>写博客</h1><p>网站倒是搭建完成了，写博客也是一项很累人的活。  </p><h2 id="博客的新建"><a href="#博客的新建" class="headerlink" title="博客的新建"></a>博客的新建</h2><p>博客的新建需要在博客目录右键并 <code>git bash</code>，在弹出命令框内输入 <code>hexo new &quot;文件名称&quot;</code>.<br>然后在<code>HEXO\source\_posts</code>文件夹下记事本打开该文件。  </p><h2 id="编辑博客"><a href="#编辑博客" class="headerlink" title="编辑博客"></a>编辑博客</h2><p>记事本编写肯定是非常非常麻烦的，因为记事本并不能标记出不同功能代码的颜色，所以需要notepad++来进行编写，  </p><p>当然，写博客也可以用到Typora这一款软件，它可以右键添加你需要的代码，不需要一个个查markdown语法复制代码来写内容，可以说是十分的简洁方便了。  </p><h2 id="写博客-1"><a href="#写博客-1" class="headerlink" title="写博客"></a>写博客</h2><p>写博客需要用markdown语法编写（虽然并不知道为啥一定要这样）<br>markdown语法应该是非常简单的一种语法，编写后的文章可以直接推到本地端口查看效果，  </p><p><strong>编写时样式是这样的</strong>  </p><p><img src="http://i4.fuimg.com/652069/864284375cdca6a2s.jpg" alt="Markdown">  </p><p><strong>实际输出样式是这样的</strong>  </p><p><img src="http://i4.fuimg.com/652069/4ef4480e9c8d354as.jpg" alt="Markdown">  </p><h2 id="感想-2"><a href="#感想-2" class="headerlink" title="感想"></a>感想</h2><p>使用markdown语法写博客对于我来说是一个十分新颖的东西，曾经写过日志也只是像是写作文一样得写下一大串的段落，突然接触到这个倒是感觉非常的有意思，可以通过不同的代码达到自己想要有的排版和样式。写一篇文章往往需要比以往要更有耐心。个人觉得，如果微博、或说说发多了，心境会变得略微急躁，心情不好的时候写上一篇博客，这可能是非常好的选择。  </p><h1 id="博客需要准备的"><a href="#博客需要准备的" class="headerlink" title="博客需要准备的"></a>博客需要准备的</h1><p>既然是搭建博客，自己博客的项目当然需要一个代码托管服务器。  </p><p>托管服务器大部分人选择的都是github，但是github有一些很令人讨厌的问题。<br>当你需要你的网页被百度收录的话，github的dns设置就是一个非常坑人的东西，如果设置有问题，百度爬虫便无法抓取你的网页。 返回的值往往是dns被拒绝访问。</p><p>想要你的网站被百度收录，一般情况不要使用github来托管你的代码</p><p>经过别人的推荐，最终选择了coding托管服务器，</p><p>同比github托管时网页加载速度快了至少300%。</p><p>当然也变成了收费托管。</p><p>托管服务器费用：995/5年</p><p>域名费用：272/5年</p><p>图床：100/年</p><p>总计：    1367元</p><h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>为了一个没人看的博客，已破产。加油，致自己。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+      <category>Note</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>web</tag>
+      
+      <tag>技术</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【笔记】博客主题样式，主页文章背景，修改记录</title>
+    <link href="/2018/07/07/note-a-4/"/>
+    <url>/2018/07/07/note-a-4/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="NEXT主题修改笔记"><a href="#NEXT主题修改笔记" class="headerlink" title="NEXT主题修改笔记"></a><center>NEXT主题修改笔记</center></h1> <center> –闲来无事，改一改主题文件吧–</center><a id="more"></a><h1 id="修改文章和文章内样式"><a href="#修改文章和文章内样式" class="headerlink" title="修改文章和文章内样式"></a>修改文章和文章内样式</h1><h2 id="大代码块样式"><a href="#大代码块样式" class="headerlink" title="大代码块样式"></a>大代码块样式</h2><p> <strong>在HEXO\themes\next-1\source\css_custom\custom.styl文件内增添代码</strong>  </p><pre><code>&#x2F;&#x2F; 大代码块的自定义样式.highlight, pre {    margin: 5px 0;    padding: 5px;    border-radius: 3px;</code></pre><p>border-radius后数值越大，圆角越大。padding后数值越大，代码框越大。  </p><h2 id="设置博文背景"><a href="#设置博文背景" class="headerlink" title="设置博文背景"></a>设置博文背景</h2><p><strong>在HEXO\themes\next-1\source\css_custom\custom.styl文件内增添代码</strong>  </p><pre><code>&#x2F;*设置博文背景*&#x2F;.main-inner {    background: #fff;    opacity: 0.9;</code></pre><p>background后为rgb颜色代码，百度来一个rgb色值粘贴即可替换博文背景颜色（替换了也很丑）<br>opacity后数值为博文背景透明度，可设置0.0-1.0数值，值越小透明度越高。  </p><h2 id="主页文章添加阴影效果"><a href="#主页文章添加阴影效果" class="headerlink" title="主页文章添加阴影效果"></a>主页文章添加阴影效果</h2><p> <strong>在HEXO\themes\next-1\source\css_custom\custom.styl文件内增添代码</strong>  </p> <pre><code>&#x2F;&#x2F; 主页文章添加阴影效果.post {  background: #fff;  opacity: 1;  margin-top: 60px;  margin-bottom: 60px;  padding: 25px;  webkit-box-shadow: 0 0 5px rgba(202, 203, 203, .5);  moz-box-shadow: 0 0 5px rgba(202, 203, 204, .5); }</code></pre><p> background和上面设置文章背景一样，为文章背景颜色；opacity透明度；margin-top上边距；margin-bottom下边距；padding框间距；webkit-box-shadow和moz-box-shadow为阴影长宽设置  </p><h1 id="next-主题样式修改"><a href="#next-主题样式修改" class="headerlink" title="next 主题样式修改"></a>next 主题样式修改</h1><p> 本文只以hexo自带Gemini样式为例（其余修改方法都差不多</p><h2 id="修改gemini样式"><a href="#修改gemini样式" class="headerlink" title="修改gemini样式"></a>修改gemini样式</h2><p> <strong>打开HEXO\themes\next-1\source\css_variables\gimini.styl文件</strong><br><pre><code>&#x2F;&#x2F; Variables of Gemini scheme&#x2F;&#x2F; =================================================@import &quot;Pisces.styl&quot;;  &#x2F;&#x2F; 应该是引用了pisces样式的代码，同理修改可同时修改两个主题样式&#x2F;&#x2F; Settings for some of the most global styles.&#x2F;&#x2F; --------------------------------------------------$body-bg-color                    = #F5F5F5   &#x2F;&#x2F; 网页背景颜色$main-desktop                     = 75%          &#x2F;&#x2F; 方块的宽$sidebar-desktop                  = 240px      &#x2F;&#x2F; 不明代码，改了信息框就消失了$content-desktop                  = calc(100% - 252px)  &#x2F;&#x2F;同上&#x2F;&#x2F; Borders.&#x2F;&#x2F; --------------------------------------------------$box-shadow-inner                 = 0 2px 2px 0 rgba(0,0,0,.12), 0 3px 1px -2px rgba(0,0,0,.06), 0 1px 5px 0 rgba(0,0,0,.12)            &#x2F;&#x2F; 方块的阴影的位移之类的，内容较多自己修改看看就知道了。$box-shadow                       = 0 2px 2px 0 rgba(0,0,0,.12), 0 3px 1px -2px rgba(0,0,0,.06), 0 1px 5px 0 rgba(0,0,0,.12), 0 -1px .5px 0 rgba(0,0,0,.09)   &#x2F;&#x2F; 同上&#x2F;&#x2F;$border-radius-inner              = initial               &#x2F;&#x2F; 默认方块边角&#x2F;&#x2F;$border-radius                    = initial                  &#x2F;&#x2F; 默认方块边角$border-radius-inner            = 0px 0px 15px 15px;  &#x2F;&#x2F; 数值越大方块边角越圆，四个值分别对应四个角，大概。$border-radius                  = 0px 15px 0px 15px;  &#x2F;&#x2F; 数值越大方块边角越圆，同上</code></pre></p><h2 id="网页动态背景替换"><a href="#网页动态背景替换" class="headerlink" title="网页动态背景替换"></a>网页动态背景替换</h2><p>打开HEXO\themes\next-1\layout文件夹内_layout.swig文件  </p><p>在/body前增添以下代码  </p><pre><code>&lt;div class=&quot;bg_content&quot;&gt;      &lt;canvas id=&quot;canvas&quot;&gt;&lt;&#x2F;canvas&gt; &lt;&#x2F;div&gt;&lt;script&gt;var canvas = document.getElementById(&quot;canvas&quot;);var ctx = canvas.getContext(&quot;2d&quot;);var cw = canvas.width = window.innerWidth,  cx = cw &#x2F; 2;var ch = canvas.height = window.innerHeight,  cy = ch &#x2F; 2;ctx.fillStyle = &quot;#000&quot;;var linesNum = 16;var linesRy = [];var requestId = null;function Line(flag) {  this.flag = flag;  this.a = {};  this.b = {};  if (flag == &quot;v&quot;) {    this.a.y = 0;    this.b.y = ch;    this.a.x = randomIntFromInterval(0, ch);    this.b.x = randomIntFromInterval(0, ch);  } else if (flag == &quot;h&quot;) {    this.a.x = 0;    this.b.x = cw;    this.a.y = randomIntFromInterval(0, cw);    this.b.y = randomIntFromInterval(0, cw);  }  this.va = randomIntFromInterval(25, 0) &#x2F; 100;  this.vb = randomIntFromInterval(25, 0) &#x2F; 100;  this.draw = function() {    ctx.strokeStyle = &quot;#BEBEBE&quot;;    ctx.beginPath();    ctx.moveTo(this.a.x, this.a.y);    ctx.lineTo(this.b.x, this.b.y);    ctx.stroke();  }  this.update = function() {    if (this.flag == &quot;v&quot;) {      this.a.x += this.va;      this.b.x += this.vb;    } else if (flag == &quot;h&quot;) {      this.a.y += this.va;      this.b.y += this.vb;    }    this.edges();  }  this.edges = function() {    if (this.flag == &quot;v&quot;) {      if (this.a.x &lt; 0 || this.a.x &gt; cw) {        this.va *= -1;      }      if (this.b.x &lt; 0 || this.b.x &gt; cw) {        this.vb *= -1;      }    } else if (flag == &quot;h&quot;) {      if (this.a.y &lt; 0 || this.a.y &gt; ch) {        this.va *= -1;      }      if (this.b.y &lt; 0 || this.b.y &gt; ch) {        this.vb *= -1;      }    }  }}for (var i = 0; i &lt; linesNum; i++) {  var flag = i % 2 == 0 ? &quot;h&quot; : &quot;v&quot;;  var l = new Line(flag);  linesRy.push(l);}function Draw() {  requestId = window.requestAnimationFrame(Draw);  ctx.clearRect(0, 0, cw, ch);  for (var i = 0; i &lt; linesRy.length; i++) {    var l = linesRy[i];    l.draw();    l.update();  }  for (var i = 0; i &lt; linesRy.length; i++) {    var l = linesRy[i];    for (var j = i + 1; j &lt; linesRy.length; j++) {      var l1 = linesRy[j]      Intersect2lines(l, l1);    }  }}function Init() {  linesRy.length = 0;  for (var i = 0; i &lt; linesNum; i++) {    var flag = i % 2 == 0 ? &quot;h&quot; : &quot;v&quot;;    var l = new Line(flag);    linesRy.push(l);  }  if (requestId) {    window.cancelAnimationFrame(requestId);    requestId = null;  }  cw = canvas.width = window.innerWidth,    cx = cw &#x2F; 2;  ch = canvas.height = window.innerHeight,    cy = ch &#x2F; 2;  Draw();};setTimeout(function() {  Init();  addEventListener(&#39;resize&#39;, Init, false);}, 15);function Intersect2lines(l1, l2) {  var p1 = l1.a,    p2 = l1.b,    p3 = l2.a,    p4 = l2.b;  var denominator = (p4.y - p3.y) * (p2.x - p1.x) - (p4.x - p3.x) * (p2.y - p1.y);  var ua = ((p4.x - p3.x) * (p1.y - p3.y) - (p4.y - p3.y) * (p1.x - p3.x)) &#x2F; denominator;  var ub = ((p2.x - p1.x) * (p1.y - p3.y) - (p2.y - p1.y) * (p1.x - p3.x)) &#x2F; denominator;  var x = p1.x + ua * (p2.x - p1.x);  var y = p1.y + ua * (p2.y - p1.y);  if (ua &gt; 0 &amp;&amp; ub &gt; 0) {    markPoint({      x: x,      y: y    })  }}function markPoint(p) {  ctx.beginPath();  ctx.arc(p.x, p.y, 2, 0, 2 * Math.PI);  ctx.globalAlpha=0.5;  ctx.fill();}function randomIntFromInterval(mn, mx) {  return ~~(Math.random() * (mx - mn + 1) + mn);}&lt;&#x2F;script&gt;</code></pre><p>具体<a href="http://sc.chinaz.com/jiaoben/170406125520.htm" target="_blank" rel="noopener">背景文件下载地址</a></p><p>然后去HEXO\themes\next-1\source\css_custom\custom.styl文件内新增代码</p><pre><code>&#x2F;*背景范围框架*&#x2F;.bg_content{  position: fixed;  top: 0;  z-index: -1;  width: 100%;  height: 100%;}#canvas{  width: 100%;  height: 100%;}</code></pre><p>以上</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><h2 id="以上为这两天闲来无事瞎摸出来的修改数据，在这里做一些笔记，上面的一些是有教程的，由于我是个小白，有教程也一直搞错，所以记下一些我自己出错的点，下面的一些是自己瞎改，找到了一些next主题可修改数值，最终得出的一些结论。以后的笔记会新开博文记录，此贴完结。"><a href="#以上为这两天闲来无事瞎摸出来的修改数据，在这里做一些笔记，上面的一些是有教程的，由于我是个小白，有教程也一直搞错，所以记下一些我自己出错的点，下面的一些是自己瞎改，找到了一些next主题可修改数值，最终得出的一些结论。以后的笔记会新开博文记录，此贴完结。" class="headerlink" title="以上为这两天闲来无事瞎摸出来的修改数据，在这里做一些笔记，上面的一些是有教程的，由于我是个小白，有教程也一直搞错，所以记下一些我自己出错的点，下面的一些是自己瞎改，找到了一些next主题可修改数值，最终得出的一些结论。以后的笔记会新开博文记录，此贴完结。"></a>以上为这两天闲来无事瞎摸出来的修改数据，在这里做一些笔记，上面的一些是有教程的，由于我是个小白，有教程也一直搞错，所以记下一些我自己出错的点，下面的一些是自己瞎改，找到了一些next主题可修改数值，最终得出的一些结论。以后的笔记会新开博文记录，此贴完结。</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+      <category>Note</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>theme</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【记录】MOREFOX.net Ver 2.6.31</title>
+    <link href="/2018/07/05/note-a-3/"/>
+    <url>/2018/07/05/note-a-3/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>MOREFOX’s Blog  最新更新内容！！（雾</strong></p><a id="more"></a><left># MOREFOX.net Ver 2.6.31 版本发布！！！ </left><h2 id="链接：网页链接"><a href="#链接：网页链接" class="headerlink" title="链接：网页链接"></a>链接：<a href="https://morefox.net/">网页链接</a></h2><h2 id="修复bug：刷新界面信息框背景不加载问题。"><a href="#修复bug：刷新界面信息框背景不加载问题。" class="headerlink" title=" -修复bug：刷新界面信息框背景不加载问题。   "></a> -修复bug：刷新界面信息框背景不加载问题。   </h2><p>发现一个奇特的bug，这个bug导致刷新界面时，站点概览板块的背景时透明的，极度影响美观，进行了长达四天的寻找bug之旅，最终修复成功，方法为关闭皮肤config内透明过度动画即可。</p><h2 id="界面优化：修改了next主题，加载速度增快。"><a href="#界面优化：修改了next主题，加载速度增快。" class="headerlink" title=" -界面优化：修改了next主题，加载速度增快。"></a> -界面优化：修改了next主题，加载速度增快。</h2><p>next主题从Muse主题替换为Gemini主题，经测试Gemini主题加载速度更为迅速和流畅。</p><h2 id="界面优化：修复背景与主页文章同层问题。"><a href="#界面优化：修复背景与主页文章同层问题。" class="headerlink" title=" -界面优化：修复背景与主页文章同层问题。"></a> -界面优化：修复背景与主页文章同层问题。</h2><p>不是很喜欢next主题集成的动态背景，测试很久背景的替换，都不约而同地出现了背景和博文板块同层的问题，经过和<a href="http://cherryblog.site/" target="_blank" rel="noopener">Cherry’s Blog</a> 内代码的对比，最终修复了这个问题。</p><h2 id="评论系统优化：删除Disqus评论系统，增加Gitment评论系统。"><a href="#评论系统优化：删除Disqus评论系统，增加Gitment评论系统。" class="headerlink" title=" -评论系统优化：删除Disqus评论系统，增加Gitment评论系统。"></a> -评论系统优化：删除Disqus评论系统，增加Gitment评论系统。</h2><p>Disqus评论系统在未科学上网的情况下时无法加载和显示的。最终决定使用gitment评论系统。</p><h2 id="优化：删除网页屏幕中间加载条，改为右上角百分比。"><a href="#优化：删除网页屏幕中间加载条，改为右上角百分比。" class="headerlink" title=" -优化：删除网页屏幕中间加载条，改为右上角百分比。"></a> -优化：删除网页屏幕中间加载条，改为右上角百分比。</h2><p>由于网页代码还存在纰漏，网页加载经常卡在99%，但在99%时却可以正常操作，屏中加载条十分挡视线，所以替换为右上角百分比，提升观感和操作体验。</p><h2 id="代码托管服务器优化：迁移至coding托管服务器。"><a href="#代码托管服务器优化：迁移至coding托管服务器。" class="headerlink" title=" -代码托管服务器优化：迁移至coding托管服务器。"></a> -代码托管服务器优化：迁移至coding托管服务器。</h2><p>已全面删除github代码托管文件，迁移至coding托管服务器，加载速度至少缩短300%。 （但年租金挺贵</p><h1 id="结语："><a href="#结语：" class="headerlink" title="结语："></a>结语：</h1><p>至此。。为了一个没人看的博客我也是拼了血命了。bug奇多无比。我一个小白居然就这样一个个试并一个个修复了，我tmd简直是天才！！加油，致自己。————by：MOREFOX </p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Updata</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Updata</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【摸鱼】-----偶遇-----</title>
+    <link href="/2018/07/03/more-a-d2/"/>
+    <url>/2018/07/03/more-a-d2/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>炎热的夏日洗刷着人们的身躯，好像仅仅是站立都可以让人融化掉一般。</p><a id="more"></a><p>  我漫无目的得闲逛着，不知不觉就拐进了一条长长的小巷，能够嗅到一丝淡淡的花香，有些熟悉，又有些陌生的味道。巷里有些潮湿，明显比街上要凉爽许多。</p><p>  走了许久，隐约能够看到一家店，与周围环境格格不入的店。</p><p>  那是一家咖啡厅，却好似花店一样，在店内店外束满了鲜花，在这个潮湿又肮脏如同废弃多年的小巷里，四处都可以闻到不同种类的花的香气，店铺门口一棵开满了油桐花的树枝歪歪扭扭的延伸到了店铺的雨棚下，被遮挡着的阴影下，一只略显臃肿的胖橘猫慵懒地躺在一条长椅上，意犹未尽般地伸了个长长的懒腰。</p><p>  –真是个惬意的地方；我不由这样想着，在这里，似乎时间都会停滞一般，安静而又自然。</p><p>  “你好啊客人！”店里传来了一声问候，“请问您需要点什么？”</p><p>  我愣了愣。</p><p>  那是一个看起来小我几岁的女孩，有着微红色的眸子，却戴着一副淡蓝色眼镜，飘着一头漂亮的黑色长发，却用兜帽盖住了大半，长得说不出来得精致，透露着一股儒雅，就这样一只手捧着一本书坐在那，正单手掀开门前的布帘，歪着头看着我。</p><p>  “你是……这里的老板？”我试探着问道。</p><p>  “对啊，要不然我在这做什么！”</p><p>  我无言以对，抬头看了一眼店铺的牌匾，歪歪扭扭地写着MoonCoffee的字样，又撇头看了一眼店里的前台，上面大大小小的烧瓶和咖啡壶。–这里真的可以赚到钱么；我这样想着，恍惚间有些走神。</p><p>  “你是怎么找到这里来的？这里应该不是那么容易找到的地方。”戴着淡蓝色眼镜的女孩问。</p><p>  “散着步，就不知不觉到这了。”我回道。</p><p>  她盯了我好一会。</p><p>  “原来如此”她用明白了什么一样表情说着。</p><p>  “别傻站着啊，进来坐坐吧，好久都没有客人来了，我咖啡调的很棒哦。”她笑着说，感觉十分期待我尝到她手艺时的样子。</p><p>  “嗯。那么打扰了。”</p><p>  “你是客人！当然不会打扰了！快进来吧，坐着等我下，马上就好！”说完她就扭头跑进去了。</p><p>  –我好像还没说自己要喝什么；心里一边这样想着，一边掀开帘子踏进了店铺。</p><p>  店的里面十分凉爽，和外面似乎是两个季节。我轻轻拉开台前的座椅坐了上去，害怕打扰到正在研磨咖啡豆的淡蓝色眼镜的女孩，侧边才隐约能看到她的鬓角有着不小的疤痕。</p><p>  “这家店开了多久了？”我鬼使神差地问。</p><p>  她忙碌的同时回头看了我一眼，抬手拉了拉兜帽，正好盖住鬓间的疤痕，又回头继续忙碌去了。</p><p>  又过了好一会她才回我：”我也不记得多久了，有印象开始我就一直在这，“</p><p>  我有些差异：”你的父母呢？“</p><p>  ”很久以前他们就离世了。“</p><p>  ”抱歉。“</p><p>  ”不用道歉。“</p><p>  沉默……  </p><p>  –我可能真的很擅长终结一个话题；我想到。  </p><p>“要听一个故事么？”她突然说。  </p><p>  虽然是询问的口气，但她并没有等我回答的意思：“很多年前，有一位长相绝世美丽的女巫，叫做裴朵拉；她美到无论是谁看到都会因她而痴狂，但她爱上了一个从异界来的魔王。<br>  这位魔王长相帅气英俊，只是他有一对巨大的翅膀和头上一对鲜红的犄角，时刻证明着他和人类的不同。<br>  他从一个叫做幽暗深渊的地方来，相传那里是万物的起始之地，从没有人去过那里。<br>  裴朵拉深爱着魔王，甚至宣誓从此只魔王一人追随，魔王应允了裴朵拉的追随，但魔王只在乎人类的灵魂和鲜血，只知道杀戮和享乐。<br>  人类因为魔王的到来生灵涂炭，裴朵拉不希望魔王这样下去但又深爱着魔王不希望破坏他们脆弱的关系。<br>  于是,裴朵拉在魔王沉睡之时给他种下了情毒，那是一种可以让中毒之人深深爱上媒人的毒药。<br>  魔王中了情毒之后果然也深深爱上了裴朵拉，不久后，他们就这样的结合了。<br>  但，神明发现了端倪，神明察觉到了魔王的到来，进入人世间追杀魔王。<br>  但是神不是万能的，神明也不能轻松地杀死如此强大的魔王，就这样制衡了半年之久，神明最后利用自己全部神力终于杀了魔王，而自己也陷入了永远的沉睡。<br>  裴朵拉失去了爱人后才终于意识到，得到一个魔王的爱是多么的自欺欺人，但她已经有了魔王的孩子。<br>  裴朵拉决定生下这个孩子，纵使她知道是一个虚假爱情的结晶，但裴朵拉也渴望自己和魔王的孩子可以像个正常人一样快乐的活下去，于是她来到了一处偏僻的城市过起了普通人的生活。<br>  直到，孩子的出生。孩子出生那天，裴朵拉才想起，这是魔王的孩子，并不是那么容易生下来的，孩子吸食了裴朵拉几乎全部的生命力，生下了孩子的裴朵拉已经再无活下去的可能。而且在孩子生下后，纵使没有那巨大的翅膀，但还是有着一根显眼的犄角，这样怎么可能像是正常人一样活下去。<br>  裴朵拉用尽自己做后的力气，拿起了刀，斩下了初生孩子的犄角，裴朵拉死去的同时，也造就了一个拥有无尽生命和无尽力量的，世界上第一个半魔人。<br>  半魔人被人捡走，一次次被人捡走抚养，抚养的人也一次次发现这个孩子的不寻常，纷纷将她抛弃。<br>  半魔人十分痛恨自己的父母，为什么要造就自己这样的怪物。<br>  不知不觉，几千年过去了，半魔人也长大了，她受够了人类的违心，远离了人潮流动的区域，买下了一间店铺。<br>  她终于如愿以偿得，过起了人类一般的生活。安静的，惬意的生活。<br>  但这样的生活还是被打破了，半魔人的血脉注定她是个怪物，她成人礼的那天，她会彻底的魔化，变成一个不折不扣的，不死不灭的怪物。<br>  除非……”</p><p>  “除非？”我听的有些入神。</p><p>  “除非吃下魔王的心脏，得到至强的力量，在无尽的痛苦中压制无休止的魔化。“</p><p>  “或者……丢掉自己的感情，丢掉所有的念想，便不会受到魔化恶念的影响。”</p><p>  她稍微顿了顿</p><p>  “要怎么做？”我也不知道自己问的是方法还是她的选择。</p><p>  她继续说道：“世上有一种花香，可以让人忘记所有情感，心境变得平静，虽说是变得无情，但它的花语确实恰恰相反：情窦初开。”</p><p>  片刻沉默。</p><p>  我看着她忙碌的身影说道：“结局呢？之后的故事一定是美好的结局吧。”</p><p>  她回头：“没错的，客人，最后她过上了非常幸福的生活。”</p><p>  女孩笑着回答道</p><p>  “那还真是，放心了。”<br>  ………………</p><p>  女孩微笑着，端给了我那杯精心调制的带着浓郁香气的咖啡放在了我的面前。</p><p>  “请慢用。”语气变得比进来时平静了许多。大概是想起了伤心事。</p><p>  我缓缓的品尝着咖啡，沉默着看了看眼前的女孩，有惊讶，也有别的，一些，忘记了是什么的情感。</p><p>  “故事里的女孩应该有个很美的名字吧。”我说道。</p><p>  她并没有回答我。</p><p>  时间似乎静止了，我甚至能够听到烧杯下火苗跳动的声音，呼呼的声音。</p><p>  只剩下一个忙碌的漂亮女孩的身影和一个发呆许久才喝上一口咖啡的年轻人。</p><hr><p>  我将空杯子放下，抬手看了眼时间。</p><p>  女孩回头看了我一眼。微微一笑</p><p>  “竟然过去了这么久”我惊呼。</p><p>  “客人还有什么事么？”她疑惑道。</p><p>  “不，并没有，只是有些惊讶。顺便一提，咖啡真的很好喝。”我边说着便掏了掏兜。</p><p>  “不用结帐了，当作是倾听的谢礼吧。”她笑着说。</p><p>  我有些差异。实则却想着着笑容背后又是什么样的表情。</p><p>  “这里就要关门了，不出意外，你应该是最后一个到这里的人了。”她低头忙碌着说道。</p><p>  我扫了一眼店里各式各样的花草盆栽，直到起身我才注意到店面里面似乎除了前台就全都是各式各样的植物和花卉。</p><p>  “是因为我的到来么？”我问。</p><p>  “并不，只是觉得我需要一个人静一静了，客人。“他说话的同时似乎也饱受着什么痛苦一样。她塞给我手里一朵刚摘的油桐花，“不知道为什么，感觉客人你特别得……亲切，嘛，这个就当作纪念品吧。“她说。</p><p>  我看了看手里的花，抬头又看了看她。</p><p>  ”谢谢“</p><p>  转身走出店门。</p><p>  外面已然到了黄昏，天空迸发出火焰般的光彩，牌匾上的字被它映得通红。</p><p>  最近总是越来越容易发呆了，一定是这里的花香闻起来很舒服的原因。</p><p>  身后突然传来了一道声音：“裴薰然！”</p><p>  我微微一愣，回头看着在门前露出头来的她。</p><p>  “故事里的女孩，叫裴薰然。”</p><p>  “果然是很美的名字。”</p><p>  随后女孩便头也不回的进店里去了。</p><hr><p>  我走出了小巷，又是那繁华的街。一切好像没有什么变化。世界还在照常的转着。行人并没有注意到我的什么异样。</p><p>  “也算是打发了一些无聊的时光。”</p><p>  顺手拨开眼前的刘海，摸了摸头上红色的角。那鲜红色的，摸起来些许刺痛感。</p><p>  隐约觉得似乎忘记了什么，也似乎想起来了什么。抬手看了看手中的花。感觉又变得强烈了一些。</p><p>  “世上真有那么愚蠢的魔王么？”</p><p>  我自言自语道。“钠，裴朵拉。”</p><p>  她并没有回答我</p><p>  我自嘲的笑了笑，( 嘲笑真的有闲得无聊的人读完我写的zz文章。)</p><p>  然后继续迈开步子走去。</p><hr><h2 id="BY：MOREFOX"><a href="#BY：MOREFOX" class="headerlink" title="BY：MOREFOX"></a>BY：MOREFOX</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>随想</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>story</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【补坑】新坑补完计划-窝-</title>
+    <link href="/2018/05/19/more-a-d0/"/>
+    <url>/2018/05/19/more-a-d0/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote class="blockquote-center">画画久了，就变得嫌弃自己的水平，人之常情，努力补完。然后享受人生喜悦去吧（去睡觉）</blockquote><a id="more"></a><h2 id="新坑-1"><a href="#新坑-1" class="headerlink" title="新坑-1"></a>新坑-1</h2><p>新坑补不完</p><p>一张图画久了就动力全无。<br>太久不上色画的感觉是真的屎。</p><p><img src="http://i4.bvimg.com/652069/c51a007df5be877es.jpg" alt="Markdown"></p><h2 id="上色笔记"><a href="#上色笔记" class="headerlink" title="上色笔记"></a>上色笔记</h2><h3 id="上色方法尝试"><a href="#上色方法尝试" class="headerlink" title="上色方法尝试"></a>上色方法尝试</h3><p>大概是从色彩灰阶看颜色深度搭配是否合理，<br>然后给每个色块上固有色和阴影高光，<br>最后给每个大的色块分组，<br>分组后调整明暗灰度和色彩饱和度，<br>最后在所有图层之上新建高光层点缀高光，<br>导出jpg从ps里调色加文字。</p><h3 id="草稿-线稿-色彩"><a href="#草稿-线稿-色彩" class="headerlink" title="草稿-线稿-色彩"></a>草稿-线稿-色彩</h3><p><img src="http://i4.bvimg.com/652069/11a9ff15a71803cfs.jpg" alt="Markdown"></p><p><img src="http://i4.bvimg.com/652069/e41015f3b46fb31fs.jpg" alt="Markdown"></p><p><img src="http://i4.bvimg.com/652069/c51a007df5be877es.jpg" alt="Markdown"></p><h1 id="最后附上-视频链接"><a href="#最后附上-视频链接" class="headerlink" title="最后附上 - 视频链接 - "></a>最后附上 <strong>- <a href="https://www.bilibili.com/video/av23645287" target="_blank" rel="noopener">视频链接</a> - </strong></h1><h2 id="END"><a href="#END" class="headerlink" title="END"></a>END</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>Article</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>坑</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【笔记】百度链接提交验证操作记录</title>
+    <link href="/2018/05/18/note-a-1/"/>
+    <url>/2018/05/18/note-a-1/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="百度链接提交申请"><a href="#百度链接提交申请" class="headerlink" title="百度链接提交申请"></a>百度链接提交申请</h2><p><strong>经过了无数次的申请失败，试过了无数种方法，终于成功了，但是为啥呢。</strong></p><p>Note笔记<br><a id="more"></a></p><h3 id="基本方法"><a href="#基本方法" class="headerlink" title="基本方法"></a>基本方法</h3><p><a href="https://blog.paddings.cn/2016/05/14/blog/hexo-sitemap/" target="_blank" rel="noopener">引用链接:Hexo 博客添加百度sitemap</a></p><p>以上！我也懒得自己敲了，别人的教程很全面。</p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><p>申请失败的尝试<br>由于并不知道具体那一步生效了，所以这里全部记录下来。</p><blockquote><p>通过不同手段将验证文件上传至项目<br>网页head并不能识别百度验证代码（pass）<br>创建不同域名CNAME转入百度<br>尝试认证安全链接https</p></blockquote><h3 id="安装sitemap后出错"><a href="#安装sitemap后出错" class="headerlink" title="安装sitemap后出错"></a>安装sitemap后出错</h3><p>出现<code>TypeError: Cannot read property &#39;count&#39; of undefined</code>字样<br>尝试：<code>npm remove hexo-baidu-url-submit</code>-<code>hexo clean</code>-<code>hexo g</code>后重新部署</p><h3 id="尝试文件申请验证"><a href="#尝试文件申请验证" class="headerlink" title="尝试文件申请验证"></a>尝试文件申请验证</h3><p>同时生成两份域名文件 <code>http://morefox.net</code> 和 <code>http://www.morefox.net</code>分别进行申请</p><p>尝试将下载的百度验证文件放入 <code>HEXO\themes\next-1\source</code> 文件夹下 申请失败<br>尝试将下载的百度验证文件通过github控制面板放入项目根目录          申请失败</p><h3 id="尝试进入github设置页打开“强制https”"><a href="#尝试进入github设置页打开“强制https”" class="headerlink" title="尝试进入github设置页打开“强制https”"></a>尝试进入github设置页打开<strong>“强制https”</strong></h3><h3 id="尝试从域名创建站点添加CNAME记录"><a href="#尝试从域名创建站点添加CNAME记录" class="headerlink" title="尝试从域名创建站点添加CNAME记录"></a>尝试从域名创建站点添加CNAME记录</h3><p>我用的腾讯购买的域名，从腾讯域名管理中添加域名解析 <a href="https://jingyan.baidu.com/article/2f9b480d95fc8641ca6cc277.html" target="_blank" rel="noopener">详细参考</a></p><h3 id="尝试添加解析代码"><a href="#尝试添加解析代码" class="headerlink" title="尝试添加解析代码"></a>尝试添加解析代码</h3><p>失败，不管添加到什么地方都一样，几乎尝试遍了所有可能的位置粘贴代码，无功而返。</p><h3 id="尝试使用不同百度验证代码填写-CNAME-指向"><a href="#尝试使用不同百度验证代码填写-CNAME-指向" class="headerlink" title="尝试使用不同百度验证代码填写 CNAME 指向"></a>尝试使用不同百度验证代码填写 CNAME 指向</h3><p>提示DNS………………（失败）</p><h3 id="尝试从百度站长管理新建站点"><a href="#尝试从百度站长管理新建站点" class="headerlink" title="尝试从百度站长管理新建站点"></a>尝试从百度站长管理新建站点</h3><p>新建<code>https://morefox.net</code>并下载全新验证文件到<code>HEXO\themes\next-1\source</code>目录下并<code>hexo d -g</code>命令</p><h2 id="做完以上操作后点击验证成功"><a href="#做完以上操作后点击验证成功" class="headerlink" title="做完以上操作后点击验证成功"></a>做完以上操作后点击验证成功</h2><p>个人猜测主要问题出在：</p><blockquote><p>文件验证首先需要将文件放入主题目录source文件下并<code>hexo d -g</code><br>随后检查github强制https前的勾是否存在，把勾勾上。<br>以上两步没错即可通过文件验证成功（并未证实<br>CNAME验证首先需要检查百度站长管理的域名是否为Https，是就去掉s<br>随后将百度给的“请将”文字后的链接<br>填入注册域名的网站域名解析记录的“主机纪录”中<br>再将“解析到”文字后的链接填入 “记录值”中<br>记录类型选择CNAME<br>保存后等待十分钟再次验证即可成功<br>网页代码验证理论上不可能成功（口胡。</p></blockquote><h2 id="成功验证！"><a href="#成功验证！" class="headerlink" title="成功验证！"></a>成功验证！</h2><p>由于最后一次成功时，项目里保留着前面操作的所有记录包括开启了CNAME和网页head验证代码和验证的文件，<br>所以具体不知道是哪一步成功了，在这之前，文件验证链接通过浏览器可查看，验证却失败，后来将github的强制https打开后重新填写了CNAME转入，之后会过来看就申请成功了，并没看到是哪一个申请成功的，经过分析后应该是因为打开github的强制https才成功的。</p><p>验证成功后并未收录。无法查看当天提交数据。<br>收录的问题可能写在以后的文章里。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Note</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>web</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【记录】MARKDOWN基础语法笔记</title>
+    <link href="/2018/05/17/note-a-2/"/>
+    <url>/2018/05/17/note-a-2/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="blog笔记"><a href="#blog笔记" class="headerlink" title="blog笔记"></a>blog笔记</h1><blockquote class="blockquote-center">文章编写常用</blockquote><br>用makedown语法编写博客说实话真的挺好玩的，语法也还算简单，写这一篇的目的是防止我自己忘记，嘛，有些代码用完一次，第二次就忘干净了，这里记录一下用过的语法，以后也方便找。<br><br><a id="more"></a><br><br>添加新文章：<br>—-<br><br>添加新文章：<br>在hexo根目录下右键 选择 Git bash here.<br>键入：<br><pre><code>hexo new &quot;文章文件名称&quot;</code></pre><br>使用notepad++打开<br>文章插入code栏：<br>—-<br>在md文件内插入：<br><pre><code>&lt;pre&gt;&lt;code&gt;write something here&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;br&gt;</code></pre><br>实际效果<br><pre><code>write something here</code></pre><br><br><blockquote class="blockquote-center">↓</blockquote><h2 id="文章居中文字："><a href="#文章居中文字：" class="headerlink" title="文章居中文字："></a>文章居中文字：</h2><pre><code>&lt;blockquote class=&quot;blockquote-center&quot;&gt;write something here&lt;&#x2F;blockquote&gt;</code></pre><p>效果：</p><blockquote class="blockquote-center">write something here</blockquote><h2 id="文章插入图片："><a href="#文章插入图片：" class="headerlink" title="文章插入图片："></a>文章插入图片：</h2><pre><code>&lt;img src=&quot;&#x2F;path&#x2F;to&#x2F;image&quot; class=&quot;[class names]&quot; title=&quot;[width] [height] [title text [alt text]]&quot;&gt;</code></pre><p>[width]替换为宽度<strong>数字</strong> ，[height]替换为<strong>高度</strong></p><p>简易：<br><pre><code>![](&#x2F;upload_image&#x2F;1.jpg)</code></pre></p><p>“1”替换为图片名称，并将图片文件放入根目录下 public\upload_image 目录下（没有即自行创建）</p><p>简易-2：<br><pre><code>![图片名称](这里键入网络图片地址)</code></pre></p><blockquote class="blockquote-center">↓</blockquote><h2 id="博文置顶"><a href="#博文置顶" class="headerlink" title="博文置顶"></a>博文置顶</h2><p>md文件内 top值增大，越大越靠前。0即为安时间排序。<br>前置需求：<br>修改 hero-generator-index 插件，把文件：node_modules/hexo-generator-index/lib/generator.js 内的代码替换为：<br><pre><code>&#39;use strict&#39;;var pagination = require(&#39;hexo-pagination&#39;);module.exports = function(locals){  var config = this.config;  var posts = locals.posts;    posts.data = posts.data.sort(function(a, b) {        if(a.top &amp;&amp; b.top) { &#x2F;&#x2F; 两篇文章top都有定义            if(a.top == b.top) return b.date - a.date; &#x2F;&#x2F; 若top值一样则按照文章日期降序排            else return b.top - a.top; &#x2F;&#x2F; 否则按照top值降序排        }        else if(a.top &amp;&amp; !b.top) { &#x2F;&#x2F; 以下是只有一篇文章top有定义，那么将有top的排在前面（这里用异或操作居然不行233）            return -1;        }        else if(!a.top &amp;&amp; b.top) {            return 1;        }        else return b.date - a.date; &#x2F;&#x2F; 都没定义按照文章日期降序排    });  var paginationDir = config.pagination_dir || &#39;page&#39;;  return pagination(&#39;&#39;, posts, {    perPage: config.index_generator.per_page,    layout: [&#39;index&#39;, &#39;archive&#39;],    format: paginationDir + &#39;&#x2F;%d&#x2F;&#39;,    data: {      __index: true    }  });};</code></pre></p><blockquote class="blockquote-center">↓</blockquote><h2 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h2><p>文字加粗<br>在需要加粗的文字前后添加“ * ”</p><p>形式有下：<br><pre><code>*强调*（斜体）**强调**（加粗）__强调__（加粗）</code></pre><br>效果：<br><em>强调</em>（斜体）<br><strong>强调</strong>（加粗）<br><strong>强调</strong>（加粗）</p><blockquote class="blockquote-center">↓</blockquote><h1 id="语法参考链接如下"><a href="#语法参考链接如下" class="headerlink" title="语法参考链接如下"></a>语法参考链接如下</h1><p><a href="https://www.appinn.com/markdown/" target="_blank" rel="noopener">MakeDown语法</a></p><p><a href="https://hexo.io/zh-cn/docs/tag-plugins.html" target="_blank" rel="noopener">标签插件插入</a></p><p><a href="https://blog.csdn.net/BlueAmerTJ/article/details/51556308" target="_blank" rel="noopener">makedown简易入门</a>  ※※※</p><p><a href="https://segmentfault.com/markdown" target="_blank" rel="noopener">makedown编辑器语法指南</a></p><p>感谢以上文章作者。</p><h2 id="END"><a href="#END" class="headerlink" title="END"></a>END</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>Note</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Note</tag>
+      
+      <tag>技术</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【记录】-MOREFOX-</title>
+    <link href="/2018/05/16/done-a-d0/"/>
+    <url>/2018/05/16/done-a-d0/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center>## ✂前言</center><p><center>-说来，画画也有快5年了。-</center><br>  <a id="more"></a><br> 还没有做过总结类的文章或是帖子。<br> 时间久了，每张图的耗时渐渐变得越来越多，课业压力也很大，时间也越来越少。<br> 熬夜熬多了，变得越来越嗜睡，好像失去了情感一样，似乎不会变得激动和开心。<br> 随之失去的也包括灵感。</p><p> 画画的同时，我也在做视频上传，不是那种取悦观众那种，类似于给自己的一个纪念。<br> 回首去看曾经的图，自己都能感觉到肉眼可见的进步，那种感觉真的很棒。<br> 但随着越来越深入去研究，就会深深的发现自己的不足。<br> 缺少时间和实践，大概是我最大的短板。</p><h3 id="加油⛽"><a href="#加油⛽" class="headerlink" title="加油⛽"></a>加油⛽</h3><h2 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h2><p>-曾经的记录-</p><h3 id="——–"><a href="#——–" class="headerlink" title="——–"></a>——–</h3><p><img src="http://i4.bvimg.com/652069/f5ffbb3c5cb4d28ds.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av7685039" target="_blank" rel="noopener">web  →</a><br>-2016年12月25日-</p><h3 id="——–-1"><a href="#——–-1" class="headerlink" title="——–"></a>——–</h3><p><img src="http://i4.bvimg.com/652069/05ddde0932f9ce39s.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av5390490" target="_blank" rel="noopener">web  →</a><br><img src="http://i4.bvimg.com/652069/483e4b426661e1b9s.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av6542315" target="_blank" rel="noopener">web  →</a><br><img src="http://i4.bvimg.com/652069/1c4499cc5bdaee6as.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av6646476" target="_blank" rel="noopener">web  →</a><br><img src="http://i4.bvimg.com/652069/7dd17813c429c27as.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av6835096" target="_blank" rel="noopener">web  →</a><br>-2016年10月05日-</p><h3 id="——–-2"><a href="#——–-2" class="headerlink" title="——–"></a>——–</h3><p><img src="http://i4.bvimg.com/652069/6827d2bf4a3188a4s.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av7373238" target="_blank" rel="noopener">web  →</a><br><img src="http://i4.bvimg.com/652069/b3d313ac65f6bfbas.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av7288291" target="_blank" rel="noopener">web  →</a><br>-2016年12月03日-</p><h3 id="——–-3"><a href="#——–-3" class="headerlink" title="——–"></a>——–</h3><p><img src="http://i4.bvimg.com/652069/9d41dddd0e34573cs.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av9653158" target="_blank" rel="noopener">web  →</a><br><img src="http://i4.bvimg.com/652069/ce83b254bd7b080as.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av9653158" target="_blank" rel="noopener">web  →</a><br>-2017年04月06日-</p><h3 id="——–-4"><a href="#——–-4" class="headerlink" title="——–"></a>——–</h3><p><img src="http://i4.bvimg.com/652069/ffe3fa0244b4bae9s.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av10636482" target="_blank" rel="noopener">web  →</a><br><img src="http://i4.bvimg.com/652069/7c41e65b97a385f5s.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av10636482" target="_blank" rel="noopener">web  →</a><br>-2017年05月17日-</p><h3 id="——–-5"><a href="#——–-5" class="headerlink" title="——–"></a>——–</h3><p><img src="http://i4.bvimg.com/652069/b9009f6dc2c3b9eas.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av15967352" target="_blank" rel="noopener">web  →</a><br>-2017年11月03日-</p><h3 id="——–-6"><a href="#——–-6" class="headerlink" title="——–"></a>——–</h3><p><img src="http://i4.bvimg.com/652069/14c0eab941d038c4s.jpg" alt="Markdown"><br><a href="https://www.bilibili.com/video/av5126318" target="_blank" rel="noopener">web  →</a><br>-2016年06月27日-</p><h2 id="致自己"><a href="#致自己" class="headerlink" title="致自己"></a>致自己</h2><p> 我发blog的心情和做视频类似，想要做一个记录给以后的自己看，我不知道这么做的意义何在，<br> 但我感觉，很久以后再回来看看这个blog，一定能切实的看到进步。</p><h3 id="加油⛽-1"><a href="#加油⛽-1" class="headerlink" title="!!!!!!!!!加油⛽!!!!!!!!!"></a>!!!!!!!!!<strong>加油</strong>⛽!!!!!!!!!</h3><h2 id="记录于2018-5-16"><a href="#记录于2018-5-16" class="headerlink" title="-记录于2018/5/16-"></a>-记录于2018/5/16-</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>Note</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Note</tag>
+      
+      <tag>Music</tag>
+      
+      <tag>图集</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【坑】开坑记录-窝-</title>
+    <link href="/2018/05/16/more-a-d1/"/>
+    <url>/2018/05/16/more-a-d1/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="继续开坑"><a href="#继续开坑" class="headerlink" title="继续开坑"></a>继续开坑</h2><p>-新坑预定-</p> <a id="more"></a><h3 id="不知道这张能不能画完"><a href="#不知道这张能不能画完" class="headerlink" title="不知道这张能不能画完"></a>不知道这张能不能画完</h3><p>  心疼<br>  <img src="http://i4.bvimg.com/652069/9105e7b7942b6c1ds.jpg" alt="Markdown"><br>  <img src="http://i4.bvimg.com/652069/882642474607d263s.jpg" alt="Markdown"><br>  <img src="http://i4.bvimg.com/652069/57713c38ed1f94bds.jpg" alt="Markdown"></p><h2 id="END-⛽"><a href="#END-⛽" class="headerlink" title="END ⛽"></a>END ⛽</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>随想</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图集</tag>
+      
+      <tag>坑</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>⛽ FIRST ⛽</title>
+    <link href="/2018/05/15/hello-world/"/>
+    <url>/2018/05/15/hello-world/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这里是否应该叫“结束与开始的序章”？</p><a id="more"></a><p>别看了这是测试用的啥也没有哦。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>【记录】first blog</title>
+    <link href="/2018/05/15/1/"/>
+    <url>/2018/05/15/1/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="第一次用HEXO开个人博客"><a href="#第一次用HEXO开个人博客" class="headerlink" title="第一次用HEXO开个人博客"></a>第一次用HEXO开个人博客</h2><h3 id="纪念blog"><a href="#纪念blog" class="headerlink" title="纪念blog"></a>纪念blog</h3><ul><li><p>-制作博客-</p><p>本人是个纯真的萌新，说真的没想到做个修改个网页主题都<em>这么麻烦</em>，bug一堆又一堆，改一个错三个。一晚上时间除了克隆了一个网页主题基本什么都没成功，改完就出错，出错就撤销，撤销了再试，哇ca。</p><p>参考文献：<br><a href="https://thief.one/2017/03/03/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/" target="_blank" rel="noopener">nMask‘sBlog</a><br><a href="http://ryane.top/2018/01/10/2018%EF%BC%8C%E4%BD%A0%E8%AF%A5%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2%E4%BA%86%EF%BC%81/" target="_blank" rel="noopener">Ryan’s Blog</a><br><a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="noopener">next官方开始阅读</a><br>next文件README说明（这玩意没有网址好像，克隆的皮肤文件里有个README文件说明，复制到网站上就能看具体啥样了。）</p><p>感谢以上作者</p><a id="more"></a></li></ul><h3 id="填坑"><a href="#填坑" class="headerlink" title="填坑"></a>填坑</h3><ul><li><p>加油</p><p>心血来潮，又或者是其他的心情，开了个人博客。</p><p>开博客站是打算发日常的，顺便看看有没有志同道合的人一起开博客娱乐用，或者说是宣传？</p><p>总之感觉自己敲代码搞出来个自己的网站很牛逼就是了。</p><p>平时可能在这里发一些日常、安利、还有作品什么的。</p><p>也不知道这里什么时候能变得欢快起来。</p><p>嘛，加油。</p><p>致自己。</p><p>  ​    </p></li></ul><h3 id="评论系统"><a href="#评论系统" class="headerlink" title="评论系统"></a>评论系统</h3><ul><li><p>坑爹的评论系统</p><p>去网上找了很多评论系统发现都倒闭了，没倒闭的搞起来又很麻烦。<br>不只是我自己的麻烦，用户使用也很麻烦。<br>于是自作主张给去掉了，<br>阅读统计也去掉了（因为开了就bug，然后又要改）。<br>嘛，说不定哪天就有更好的了呢。<br>我也在找这些。<br>博客的文章下面没有个评论栏就感觉怪怪的。<br>不是说少了点什么，似乎是叫做氛围的东西。<br>即使真的没人来发言。</p></li></ul><hr><h2 id="最后做个大概的自我介绍吧"><a href="#最后做个大概的自我介绍吧" class="headerlink" title="最后做个大概的自我介绍吧"></a>最后做个大概的自我介绍吧</h2><p>-MOREFOX-</p><p><blockquote class="blockquote-center">笔名是AJFOX</blockquote></p><p><blockquote class="blockquote-center">上面那个一般是注册账户用的昵称v，到哪里都在用，游戏，微博或是b站，Google之类的</blockquote></p><p><blockquote class="blockquote-center">下面那个是作品的签名之类的用到，或者只是个mark。</blockquote>  </p><p><blockquote class="blockquote-center">v一直以来的宗旨是“视觉体验至上”</blockquote></p><p><blockquote class="blockquote-center">通俗一点讲就是养眼的就是好的。</blockquote></p><p><blockquote class="blockquote-center">画面美感体现在方方面面，所以提高审美是很重要的事情。</blockquote></p><p><blockquote class="blockquote-center">嘛，扯得有些远。</blockquote></p><p><blockquote class="blockquote-center">以前的老朋友称呼我fox。</blockquote></p><p><blockquote class="blockquote-center">新朋友大部分叫我MO</blockquote></p><p><blockquote class="blockquote-center">似乎MO没那么中二果然还是MO更好一些吧。（大概</blockquote></p><p><blockquote class="blockquote-center">虽然很久不更新了但有作品的话我还是会发在<a href="https://space.bilibili.com/4980208" target="_blank" rel="noopener">我的B站</a>里。</blockquote></p><p><blockquote class="blockquote-center">没事可以来瞅瞅。嗯。虽然水平不高。</blockquote></p><p><blockquote class="blockquote-center">平时玩的游戏：PUBG、BF1、GTA5、Minecraft、Blackdesert。</blockquote></p><p><blockquote class="blockquote-center">MC玩的居多（毕竟服务器花了很多钱☠</blockquote></p><p><blockquote class="blockquote-center">剩下的时间基本是上课和画图</blockquote></p><p><blockquote class="blockquote-center">已经很久没出成品了，大部分是草稿过后就弃了</blockquote></p><p><blockquote class="blockquote-center">总觉得自己差很多</blockquote></p><p><blockquote class="blockquote-center">抱歉我还真的不是万能的</blockquote></p><p><blockquote class="blockquote-center">我尝试过很多领域</blockquote></p><p><blockquote class="blockquote-center">但似乎成效都不好</blockquote></p><p><blockquote class="blockquote-center">尝试过 FL编曲 、尝试过 3dmax建模 、尝试过 TBH做动画 、尝试过php和java。</blockquote></p><p><blockquote class="blockquote-center">最后发现果然还是画画省心✔</blockquote></p><p><blockquote class="blockquote-center">即使没人来看我也时不时得发点有趣的东西在这吧。</blockquote></p><p><blockquote class="blockquote-center">自建博客挺有意思的感觉</blockquote></p><p><blockquote class="blockquote-center">用Notepad++写动态也很有趣（怕不是变态</blockquote></p><p><blockquote class="blockquote-center">这里MOREFOX</blockquote></p><h2 id="祝大家愉快⛽⛽⛽"><a href="#祝大家愉快⛽⛽⛽" class="headerlink" title="祝大家愉快⛽⛽⛽"></a>祝大家愉快⛽⛽⛽</h2><h2 id="——by：MOREFOX——"><a href="#——by：MOREFOX——" class="headerlink" title="——by：MOREFOX——-"></a>——by：MOREFOX——-</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>about</tag>
+      
+      <tag>murmur</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
